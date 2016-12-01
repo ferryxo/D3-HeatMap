@@ -1,0 +1,3575 @@
+{
+  "font-size":4,
+  "v_labels":[
+    "Aggarwal, Charvi <- w00028",
+    "Aggarwal, Charvi <- q00028",
+    "Atencio, Nicko <- n00027",
+    "Atencio, Nicko <- c00027",
+    "Atencio, Nicko <- a00029",
+    "Baek, Sun <- l00028",
+    "Baek, Sun <- j00027",
+    "Baek, Sun <- f00027",
+    "Bazargan, Sahm <- g00027",
+    "Bazargan, Sahm <- r00027",
+    "Bazargan, Sahm <- y00028",
+    "Bello, Matthew <- i00027",
+    "Bello, Matthew <- v00026",
+    "Bello, Matthew <- o00027",
+    "Candelaria, Steven <- d00028",
+    "Candelaria, Steven <- s00026",
+    "Candelaria, Steven <- v00027",
+    "Chang, James <- i00028",
+    "Chang, James <- v00028",
+    "Chang, James <- k00028",
+    "Chen, Stanley <- t00026",
+    "Chen, Stanley <- u00026",
+    "Chenari, Afshin <- v00028",
+    "Chenari, Afshin <- b00028",
+    "Chenari, Afshin <- h00027",
+    "Choy, Brett <- f00028",
+    "Choy, Brett <- m00028",
+    "Choy, Brett <- p00027",
+    "Chu, Tianyu <- q00026",
+    "Chu, Tianyu <- y00028",
+    "Chung, Young <- r00028",
+    "Chung, Young <- d00028",
+    "Curry, Jordan <- y00028",
+    "Curry, Jordan <- f00027",
+    "Curry, Jordan <- t00026",
+    "Esquivel, Samuel <- r00027",
+    "Esquivel, Samuel <- d00028",
+    "Esquivel, Samuel <- v00028",
+    "Eyango, Kamala <- v00026",
+    "Eyango, Kamala <- q00028",
+    "Eyango, Kamala <- g00028",
+    "Garcia, Melanie <- b00028",
+    "Garcia, Melanie <- e00028",
+    "Garcia, Melanie <- d00027",
+    "Gaur, Kamayani <- j00027",
+    "Gaur, Kamayani <- r00028",
+    "Gaur, Kamayani <- b00029",
+    "Gha, Joonho <- q00027",
+    "Gha, Joonho <- t00028",
+    "Gha, Joonho <- u00027",
+    "Giddens, Ronald <- s00028",
+    "Giddens, Ronald <- a00027",
+    "Giddens, Ronald <- k00027",
+    "Guo, Siyi <- p00026",
+    "Guo, Siyi <- o00027",
+    "Guo, Siyi <- f00028",
+    "Guzman, Kathleen <- y00026",
+    "Guzman, Kathleen <- n00027",
+    "Guzman, Kathleen <- t00028",
+    "Hanet, Sebastian <- e00027",
+    "Hanet, Sebastian <- p00026",
+    "Hanet, Sebastian <- w00027",
+    "Harutyunyan, Luiza <- z00026",
+    "Harutyunyan, Luiza <- i00028",
+    "Harutyunyan, Luiza <- w00026",
+    "Hsiao, Matthew <- d00029",
+    "Hsiao, Matthew <- X00027",
+    "Hsiao, Matthew <- o00028",
+    "Hsu, Phillip <- e00028",
+    "Hsu, Phillip <- h00027",
+    "Hsu, Phillip <- r00028",
+    "Hua, Huy <- o00028",
+    "Hua, Huy <- z00026",
+    "Hua, Huy <- h00028",
+    "Huang, Wensong <- w00026",
+    "Huang, Wensong <- y00026",
+    "Huang, Wensong <- i00028",
+    "Kim, Se <- c00029",
+    "Kim, Se <- w00027",
+    "Kim, Se <- b00028",
+    "Kumpel, Angeleigh <- g00028",
+    "Kumpel, Angeleigh <- d00029",
+    "Kumpel, Angeleigh <- t00027",
+    "Lee, Kevin <- h00028",
+    "Lee, Kevin <- g00028",
+    "Lee, Kevin <- n00027",
+    "Lee, Seungjun <- w00028",
+    "Lee, Seungjun <- f00028",
+    "Lee, Seungjun <- i00027",
+    "Li, Nanshan <- p00028",
+    "Li, Nanshan <- b00029",
+    "Li, Nanshan <- u00026",
+    "Li, Zanchen <- m00027",
+    "Li, Zanchen <- a00029",
+    "Li, Zanchen <- j00028",
+    "Li, Zhanyang <- v00027",
+    "Li, Zhanyang <- j00027",
+    "Liu, Jingke <- X00027",
+    "Liu, Jingke <- y00027",
+    "Liu, Jingke <- v00026",
+    "Liu, Zicheng <- b00029",
+    "Liu, Zicheng <- c00029",
+    "Liu, Zicheng <- a00028",
+    "Lum, Jackie <- m00028",
+    "Lum, Jackie <- o00028",
+    "Lum, Jackie <- p00028",
+    "Mesgarzadeh, Neda <- a00027",
+    "Mesgarzadeh, Neda <- u00027",
+    "Mesgarzadeh, Neda <- s00026",
+    "Miller, Akilah <- c00028",
+    "Miller, Akilah <- t00027",
+    "Miller, Akilah <- l00027",
+    "Nanton, Sydney <- p00028",
+    "Ng-cordell, Laurence <- z00027",
+    "Ng-cordell, Laurence <- r00026",
+    "Ng-cordell, Laurence <- e00028",
+    "Nguyen, Kevin <- q00027",
+    "Nguyen, Kevin <- r00027",
+    "Pak, Jun <- j00028",
+    "Pak, Jun <- u00028",
+    "Pak, Jun <- b00027",
+    "Paradis, Leighton <- h00027",
+    "Paradis, Leighton <- q00026",
+    "Paradis, Leighton <- u00028",
+    "Pecarich, Steffanie <- u00026",
+    "Pecarich, Steffanie <- p00027",
+    "Pecarich, Steffanie <- d00029",
+    "Pelayo, Paula <- k00027",
+    "Pelayo, Paula <- a00028",
+    "Pelayo, Paula <- a00027",
+    "Qu, Hao <- d00027",
+    "Qu, Hao <- l00028",
+    "Qu, Hao <- m00027",
+    "Ramler, Maryellie <- t00028",
+    "Ramler, Maryellie <- h00028",
+    "Ramler, Maryellie <- c00028",
+    "Rangachar, Chetan <- v00027",
+    "Rangachar, Chetan <- m00028",
+    "Ren, Yanbo <- r00026",
+    "Ren, Yanbo <- m00027",
+    "Ren, Yanbo <- s00028",
+    "Rodriguez, Fabian <- a00028",
+    "Rodriguez, Fabian <- i00027",
+    "Rodriguez, Fabian <- w00028",
+    "Sakaji, Erin <- q00028",
+    "Sakaji, Erin <- t00026",
+    "Sakaji, Erin <- c00027",
+    "Seebaran, Dillan <- w00027",
+    "Seebaran, Dillan <- g00027",
+    "Seebaran, Dillan <- X00027",
+    "Shrock, Harrison <- t00027",
+    "Shrock, Harrison <- g00027",
+    "Siu, Wenchy <- y00027",
+    "Siu, Wenchy <- l00027",
+    "Skinner, Jayne <- f00027",
+    "Skinner, Jayne <- z00027",
+    "Skinner, Jayne <- c00029",
+    "Sun, Yiwei <- b00027",
+    "Sun, Yiwei <- s00028",
+    "Sun, Yiwei <- q00026",
+    "Tan, Yuanlin <- o00027",
+    "Tan, Yuanlin <- k00027",
+    "Tan, Yuanlin <- l00028",
+    "Tang, Alice <- u00028",
+    "Tang, Alice <- k00028",
+    "Tang, Alice <- y00027",
+    "Tran, Patrick <- a00029",
+    "Tran, Patrick <- d00027",
+    "Tran, Patrick <- y00026",
+    "Truong, Son <- k00028",
+    "Truong, Son <- e00027",
+    "Villegas, Martin <- c00027",
+    "Villegas, Martin <- e00027",
+    "Villegas, Martin <- z00027",
+    "Wung, Willis <- s00026",
+    "Wung, Willis <- w00026",
+    "Wung, Willis <- p00026",
+    "Xiong, Ya <- l00027",
+    "Xiong, Ya <- c00028",
+    "Xiong, Ya <- r00026",
+    "Yano, Richard <- u00027",
+    "Yano, Richard <- b00027",
+    "Yano, Richard <- z00026",
+    "Zavala, Cecilia <- p00027",
+    "Zavala, Cecilia <- j00028",
+    "Zavala, Cecilia <- q00027"
+  ],
+  "h_labels":[
+    "Explanation 2",
+    "Explanation 5",
+    "Explanation 7",
+    "Explanation 9"
+  ],
+  "content":[
+    [
+      {
+        "text":"Yes the procedure is feasible, but the procedure described would not result in a 50 mL solution of NaCl with a concentration of 2.00 x-4M and a precision of less than 1%. This is due to an initial error in calculating the correct weight of solute needed for the reaction, \"5.8440 gm.\"",
+        "value":0.184
+      },
+      {
+        "text":"Yes, it properly introduces the idea of error and the need for standard quantitative equipment in delivering a precise result.",
+        "value":0
+      },
+      {
+        "text":"The essay does use logical chronological organization and some transitional words in conducting a flow of ideas in this essay. However, at the overuse of the word \"we\" detracts from this logical flow of ideas.",
+        "value":0
+      },
+      {
+        "text":"Although the essay was mostly fine, it lacks some key components such as proper calculated values important to the experiment. It also has a weak construction that relies on the first person and detracts from its logical flow of ideas. Finally, there is a small typo in the beginning and it lacks an overall concluding summary sentence.",
+        "value":0.28539999999999993
+      }
+    ],
+    [
+      {
+        "text":"It describes everything.",
+        "value":0
+      },
+      {
+        "text":"I would do the same exact procedure.",
+        "value":0
+      },
+      {
+        "text":"Good flow.",
+        "value":0.4404
+      },
+      {
+        "text":"All it needed was a conclusion with a summary.",
+        "value":0
+      }
+    ],
+    [
+      {
+        "text":"No specific procedures were described, and no measurement of the mass of reagent is listed. This reads more like a general description of how to perform the experiment. It does not include any calculations to prove that a 2.00*^-4 M solution with an inherent error of 1% can be produced.",
+        "value":-0.20929999999999999
+      },
+      {
+        "text":"The procedure does include the use of volumentric equipment, such as the pipet and flasks.",
+        "value":0
+      },
+      {
+        "text":"Transition words are present at the start of&nbsp;each sentence to connect the logic of the current sentence to that of the previous.",
+        "value":0.1531
+      },
+      {
+        "text":"The essay needs a more specific procedure and needs to answer the prompt. The lack of both calculations and unstated measurements does not convince readers that the desired concentration can be achieved. Work must be shown for the concluding statement to prove your procedure works; otherwise, the reader can only assume the conclusion and results were made up.",
+        "value":-0.2359
+      }
+    ],
+    [
+      {
+        "text":"The procedure does not outline a beginning value for NaCl. While it does pay attention to steps in the dilution procedures, it fails to account for&nbsp;error in the equipment.",
+        "value":-0.7523
+      },
+      {
+        "text":"While it does outline the process I can't help but feel as if the author is missing something else,&nbsp;possibly calculations.",
+        "value":-0.5313
+      },
+      {
+        "text":"The tone is straight forward, with no attention to keeping a logical flow of ideas present throughout the work.",
+        "value":-0.0772
+      },
+      {
+        "text":"While the author maintained a detailed process of dilution procedure, they failed to address other questions the prompt had asked for. Furthermore, the author did not provide initial values, nor was there any mention of NaCl.",
+        "value":-0.8195000000000001
+      }
+    ],
+    [
+      {
+        "text":"First, the person used a dye to mix his or her solution, so it didn't even use the correct solute. However, this person has the right idea of diluting the solutions 3 times to achieve an inherent error of less than 1%.",
+        "value":0.06819999999999998
+      },
+      {
+        "text":"The person clearly states to use 5 mL volumetric pipets, 50 mL flasks, etc.",
+        "value":0.4019
+      },
+      {
+        "text":"The transition is very choppy. The person used numbers instead of words to label the procedures so there was no flow in the text.&nbsp;",
+        "value":-0.3535
+      },
+      {
+        "text":"The essay did not have good transitions. The topic sentence has some gramatical errors as well.&nbsp;",
+        "value":-0.6144000000000001
+      }
+    ],
+    [
+      {
+        "text":"The serial dillution procedure is clearly defined in the essay. The use of pipettes, volumetric flask and the analytical balance will provide an error rate of less than 1%.",
+        "value":0
+      },
+      {
+        "text":"The essay clearly states that standard quantitative equipment in explaining the use of the volumetric flas, analytical balance and pipette. The use of serial dillution is the standard procedure for creating a dillute solution like this one.",
+        "value":1.1203
+      },
+      {
+        "text":"Using the phrases, \"After first dilution\", and \"As a result\" allow the reader to follow along with the process of creating the dilute solution.",
+        "value":0.6597
+      },
+      {
+        "text":"This procedure is defined very clearly and concisely, with few errors. The calculation of error in this procedure is clearly defined, and the result is a solution with less than 1% error.&nbsp;",
+        "value":0.4695
+      }
+    ],
+    [
+      {
+        "text":"Student was able to accurately state which equpiment is needed and the amount. It is detailed and to an exact amount, al in which is important to know when doing this dilution.",
+        "value":0.2023
+      },
+      {
+        "text":"Student explains exactly which equipment is needed to perform this experiment. The calculations are also laid of for percent error being less than 1%. The following necessary equations are also stated for further assistance in this experiement.&nbsp;",
+        "value":-0.4019
+      },
+      {
+        "text":"student provided formulas such as M1V1=M2V2 to help asisst with calculations for this experiement. No transition words were found in this paragraph. Doesn't seem to be that big of a problem since I am still able to understand the directions.&nbsp;",
+        "value":-0.296
+      },
+      {
+        "text":"Student is able to summarize the information and procedures which all concludes to a .9% inherent error. Student also made viable calculations upfront to back up information and procedures.&nbsp;",
+        "value":-0.4019
+      }
+    ],
+    [
+      {
+        "text":"This procedure cannot be used to get the desired concentration because the author has made a mistake in the stoichiometric calculations in the first step. The calculated concentration of the first solution after dissolving the NaCl in distilled water is not 1.00x^-2M, it is 0.2M NaCl. This initial mistake leads to a wrong final concentration, as after the author's steps, the final concentration will be 4x^-3M and not their calculated value of 2x^-4M.&nbsp;",
+        "value":-0.5195
+      },
+      {
+        "text":"The essay uses the assigned equipment of the volumetric pipette, volumetric flask and the weighing balance, which are the standard quantitative equipment. The serial dilution process is the standard quantitative procedure for acquiring the dilute solution of 2.00x^-4M so the essay satisfies the requirement of using the right procedure and right equipment. However, the author does not acquire the desired concentration of the solution.",
+        "value":0.7802
+      },
+      {
+        "text":"The essay has an easy-to-follow pace with concise wording and reasons for why each step is being carried out. The formulas and calculations are clearly described to show the logic behind the steps carried out. However, the calculations are wrong, so despite the good flow of words, the essay is ultimately misleading.&nbsp;",
+        "value":-0.29560000000000003
+      },
+      {
+        "text":"This text is well written and concise, but it contains wrong information and will eventually lead to the wrong concentration of NaCl being acquired, so it gets points for being well written but loses points for being inaccurate.&nbsp;",
+        "value":-0.8422
+      }
+    ],
+    [
+      {
+        "text":"the person accurately mentioned about the goal of an&nbsp;experiment. The aim is to prepare 0.0002M of NaCl with less than 1% inherent error. However, writer forgets to mention about its volume which is 50ml. Nevertheless, writer still did good jobs in writing down the accurate usage of the equipments to prepare solution.",
+        "value":0.23500000000000004
+      },
+      {
+        "text":"the writer put certain concern about reversing the steps to get the final concentration while maintaining the inherent error less than 1%. Writer did not mention about the number of dilutions in the experiments but he did mention about the final % of inherent error and also talk about the amount of mass he/she liked to begin with. Last but not least writer briefly mention about how he/she prepare the solution with equipment.&nbsp;",
+        "value":0.37379999999999997
+      },
+      {
+        "text":"The Writer shows little significance error in terms of grammar or punctuation. However, I believe that the order of the writing can be better which the writer can firstly mention about how he/she gonna maintain the inherent error with given mass while describe this with procedure. Writer can also have conclusion sentence at the end to summarize the problem.",
+        "value":-0.44510000000000005
+      },
+      {
+        "text":"The overall logic of the essay is present and I believe that it should be in the higher range of score. However, writer can effectively improve the essay with improving certain criteria like writing down conclusive sentences or describe the procedure with reason behind in using such equipment.&nbsp;",
+        "value":0.9081
+      }
+    ],
+    [
+      {
+        "text":"The first sentence introduce the creation of a solution with a specific concentration. the procedure uses the equipment available to create a 50 mL solution with a concentration of 2.00 x-4M and erroe of 1% of less.",
+        "value":1.0985999999999998
+      },
+      {
+        "text":"The procedure uses 3 solutions to dilute the solution to the desired contration with inherent error of less than 1% using a 50.00 mL flask, 5 mL pipet and MettlerAE160 to mearure materials.",
+        "value":0.34
+      },
+      {
+        "text":"A few commas can be added to the essay. There appear to be no other errors grammatically or in spelling. Some sentences could be reformatted to increase clarity in the essay, but the essay does not lack clarity as written.",
+        "value":0.26470000000000005
+      },
+      {
+        "text":"The concluding sentences bring the procedure to a finish. Points were lost not specifying what MattlerAE160 is, not specifically telling the reader the amount of sodium chloride used in the procedure, and the use of firdt person directions. The first person makes the procedure more like a diary entry than a specific procedre instructing the reader.",
+        "value":0.15349999999999997
+      }
+    ],
+    [
+      {
+        "text":"The error is brielfy mentioned, but the procedure checks out. Also, the author noted the importance of calculating ahead of time to achiee a target molarity",
+        "value":0.1468
+      },
+      {
+        "text":"Although the specific balance used to measure mass is listed, the rest of the equipment feels like an afterthought. The individual inherent errors for this equipment are not mentioned, and as such, a reader might attempt this using equipment of varying error",
+        "value":-0.2637
+      },
+      {
+        "text":"Mostly prepositional phrases, but the procedure uses proper transitions",
+        "value":0
+      },
+      {
+        "text":"Missing some specifics as to the procedure and equipment used, but the essay reads well",
+        "value":0.2617
+      }
+    ],
+    [
+      {
+        "text":"Only 5-mL volumetric pipets and 50-mL volumetric flasks can be used. However, 1-mL pipet and 0-mL flask are used in this method.",
+        "value":0
+      },
+      {
+        "text":"Again, the 1-mL pipet and the 0-mL flask are not allowed to be used.",
+        "value":0
+      },
+      {
+        "text":"The author used \"First\", \"Since\" and other transition words.",
+        "value":0
+      },
+      {
+        "text":"In this procedure, equipment that are not included in the requirement are used and therefore it leads to the big mistake on designing the procedure.",
+        "value":-0.34
+      }
+    ],
+    [
+      {
+        "text":"This person clearly did not read and completely understand the materials list available. &nbsp;There was no mention of being able to use a 1.00mL volumetric pipet in the Source Materials section of this assignment. &nbsp;From this assumption onwards, this whole procedure is impossible since for dilutions, solutions are created from the net product of the previous solution(s). &nbsp;If anything goes wrong or is wrongly assumed in the beginning, the error will compound and eventually lead to a completely wrong end result.",
+        "value":-0.32819999999999994
+      },
+      {
+        "text":"This procedure does mention using specific pieces of standard quantative equipment, but neglects the fact that a 1.00mL pipet was never provided. &nbsp;Additionally, the fact that the person uses standard quantative processes to make the solution is a plus, but the fact that the 1.00mL pipet is assumed to be had subtracts from the validity of the person's credibilty and accuracy.",
+        "value":-0.4831
+      },
+      {
+        "text":"The usage of transition words such as first, then, finally during the procedure and the use of next, then, etc. help the overall flow of the paragraph in having good flow and coherence as a whole. &nbsp;Goob job.",
+        "value":0.6808
+      },
+      {
+        "text":"Because of the incorrect assumption that a 1.00mL pipet can be used, the person had done the whole procedure incorrectly. &nbsp;Due to this error, I believe that a score of no higher than 7 can be given to the person although the calculations have been done correctly in addition to formatting and conveying the idea. &nbsp;Misreading information should be an error that is not made at this level of education.",
+        "value":-1.0533
+      }
+    ],
+    [
+      {
+        "text":"Although the essay contains a procedure which results in the creation of a 2.00*^-4 M NaCl solution, it does not provide any explanation or calculation of the inherent error. Also, the use of required standard quantitative equipment, including 5.00 mL volumetric pipet and 50 mL volumetric flask, is not evident within the experiment; instead, the essay includes equipment not required in the criteria.&nbsp;",
+        "value":0.1779
+      },
+      {
+        "text":"The suggested procedure within this essay uses equipment that are not&nbsp;available. The required standard quantitative equipment was 5.00 mL volumetric pipet and 50 mL volumetric flask, both of which not mentioned within the essay. Instead, the essay describes an experiment using a 1.00 mL volumetric pipet and a 0 mL volumetric flask.&nbsp;",
+        "value":0
+      },
+      {
+        "text":"The essay includes the use of chronologic transition words such as \"first,\" \"then,\" and \"finally,\" all of which allow an easier understanding of the procedure in the experiment. Also the use of transition words give the essay a greatquality in portraying an understandable flow of ideas.&nbsp;",
+        "value":0.5719
+      },
+      {
+        "text":"Although the essay includes a great flow of ideas and a procedure in creating a 2.00*^-4 M NaCl aqueous solution, it does not do so by following the criteria. The use of equipment not available for the experiment, the inability to calculate the inherent error within the experiment, and the process of just one dilution undermine the writer's understanding&nbsp;of this experiment. However, the essay demonstrates a an organized flow throughout an experiment.",
+        "value":0.057499999999999996
+      }
+    ],
+    [
+      {
+        "text":"[1st solution]=0.5884/(22.99+35.45)/0.05000=0.200M[2nd solution]=0.200x0.00500/0.05000=0.0200M[3rd solution]=0.0200x0.005/0.05000=0.00200M[4th solution]=0.00200x0.005/0.0500=0.000200M=2.00x^(-4)MTherefore 50ml of NaCl solution with required concentration is achieved by this procedure.&nbsp;%error of final solution=(0.0002/0.5844 + 0.04/50.00 + 3(0.01/5.00 + 0.04/50.00)) x 0=0.954%Therefore precision is accurately calculated and less than required precision of 1%.",
+        "value":0.3182
+      },
+      {
+        "text":"This procedure uses a digital balance, volumetric flasks and volumetric pipets to make quantitative measurements. Therefore this essay does indeed describe a serial dilution that appropriately uses standard quantitative equipment whenever possible or necessary.&nbsp;",
+        "value":0
+      },
+      {
+        "text":"The author appropriately used these transition phrases: \"To begin,...\", \"After...\", \"Next,...\", \"Again,...\", and \"Repeat...\". This contributes to the essay's coherent and logical flow of ideas.",
+        "value":0
+      },
+      {
+        "text":"This essay does well to describe a procedure that uses appropriate equipment to produce the required solution to the required precision, but the minimum mass of solid NaCl is not used. Since the main objective of the essay is achieved, this essay is off to a great start.However, the quality of language could be better. The first sentence is&nbsp;unnecessarily long, and does not introduce the topic succinctly. &nbsp;There is also a grammatical error; namely \"After sufficiently swirling\". Another issue is that which is referred to as the \"first dilution\", is actually not a dilution but rather a primary standard or stock solution. These are the main issues that lost the essay some marks.&nbsp;That said, the essay did present a reasonably logical and coherent flow of ideas, and so the quality of language was by no means poor.",
+        "value":0.6273000000000001
+      }
+    ],
+    [
+      {
+        "text":"Yes the error is below 1% however they could have used even less starting NaCl and performed one less dilution. This would further minimize error.",
+        "value":-0.4019
+      },
+      {
+        "text":"Author mentions equiment used and a feasible procedure to obtain a final solution of the given concentration.",
+        "value":0.3182
+      },
+      {
+        "text":"I found myself lost in the wording of the sentences. Needs to be more concise.&nbsp;",
+        "value":-0.2732
+      },
+      {
+        "text":"Could have used less NaCl. Mechanical errors. No concluding sentence.",
+        "value":-0.5663
+      }
+    ],
+    [
+      {
+        "text":"The essay does have a topic sentence and got a solution that has a precision of 1 %.",
+        "value":0.3818
+      },
+      {
+        "text":"The procedure used a serial dilution that has an inherent error less than 1%. The procedure uses more than 0.0584g which is not good.",
+        "value":-0.7431
+      },
+      {
+        "text":"The essay doen't have mechanical errors and uses transition words such as \"next\",\"agiain\".",
+        "value":0.2584
+      },
+      {
+        "text":"The essay shows that the author has a clear understanding of the concepts and procedures. However the design is not the best one and it wastes NaCl.",
+        "value":-0.13979999999999998
+      }
+    ],
+    [
+      {
+        "text":"The procedure that was outlined will result in a 2.00x-4M solution. Weighing out 58.5mg of NaCl and diluting it in 0mL of water will result in a 0.02M solution. The first dilution of 5mL into 0mL of water will give a 0.002M solution and the final dilution will give a solution that has a concentration of 2.0x-4M. The sums of the errors for the equipment are as follows in the order in which they were used: (0.1mg/58.5mg + 0.04mL/50mL + 0.01mL/5mL + 0.04mL/50mL + 0.01mL/5mL + 0.04mL/50mL).&nbsp;The inherent error for this procedure is also less than 1% given that the sum of all the uncertainties for the equipment results in an error of 0.81%.&nbsp;",
+        "value":0.3457
+      },
+      {
+        "text":"The essay explains the reasoning behind the dilutions and outlines a procedure that uses quantitative equipment. The dilution procedure could have been described more eloquently such as by avoiding saying \"5mL of this solution taken, disposed in an empty flask\" and instead describing a quantitative transfer of solution.&nbsp;",
+        "value":-0.1469
+      },
+      {
+        "text":"The writer uses transition phrases such as \"to start,\" \" also\", \"knowing that\", \"given this result\" to make the essay flow nicely.&nbsp;",
+        "value":0
+      },
+      {
+        "text":"The writer does a good job explaining the logic of the dilutions and explains the calculations that lead to a solution of concentration 2.00x-4M. They include an introductory sentence, transition phrases, reason for the procedure, a description of the use of equipment, and a concluding sentence. Still, I think they could elaborate more on the procedure and describe it more quantitatively.&nbsp;",
+        "value":0.79
+      }
+    ],
+    [
+      {
+        "text":"The calculations work out.",
+        "value":0
+      },
+      {
+        "text":"volumetric equipement was mentioned in the beginning, then the values were iterated throughout the rest of the essay.",
+        "value":0.4019
+      },
+      {
+        "text":"Phrases such as \"given this result\", \"With that...\", \"Also\", etc.",
+        "value":0
+      },
+      {
+        "text":"The text focuses on the derivation of the procedures that will be followed to prepare the solution. The information is overall correct and solid. This essay didn't recieve a full  because the wording of the essay is a little confusing at times.",
+        "value":0.3165
+      }
+    ],
+    [
+      {
+        "text":"Yes, all of the equiptment is availilbe in lab and the calculations are correct. But they don't really describe a procedure as much as a calculation. I would just write out what needs to be done.&nbsp;&nbsp;Calculations for Concectration is Correct:.0584g x (1/58.44) mol/g = 9.99x-4mol9.99x-4mol / .050 L = .01998MM1V1 = M2V2 -&gt; M2 = M1V1/V2(.01998M)(5mL)/ (50mL) = .001998 MM3 = M2V2/V3(.001998 M)(5mL)/ (50mL) = 1.998 x-4&nbsp;M ~ 2.0 x-4&nbsp;M.&nbsp;Calcultion for Error is Correct:Inherent Error is the Sum from all equiptment used:Scale .0002/ .0584 x 0% = .345%(3x) 50 mL Volumetric flask 3( .04/50 x 0%)= 3(.08%) = .24%(2x) 5 mL Volumentric pipet 2( .01/5 x 0%) = 2(.20%) = .40%Total Inherent Error: .985%",
+        "value":-0.3945
+      },
+      {
+        "text":"I know you mean to use volumetric equiptment, but you don't ever say \"volumentric.\" You do use serial dillutions though, which is good.",
+        "value":0.4404
+      },
+      {
+        "text":"To start,... Also,... Using the same equasion, ...&nbsp;",
+        "value":0
+      },
+      {
+        "text":"Doesn't exactly describe a procedure, mostly a calculation. The science works, but make sure to just talk about the topic of the essay: a procedure using serial dillutions.&nbsp;",
+        "value":0.4497
+      }
+    ],
+    [
+      {
+        "text":"The dilutions, as stated, reduce the molarity by a factor of 0.1 so with a starting molarity of .2M, after 3 serial dilutions, the molarity is 2 x-4. &nbsp;The initial measurement would provide a .0342% error in addition to the .08% error of the flask. This gives .1142% error. Each dilution gives an error of .28%. Three dilutions therefore give .84% error. Adding the two, we have .95% error as stated.",
+        "value":-2.2672999999999996
+      },
+      {
+        "text":"The essay mentions the use of volumetric flask and pipet.",
+        "value":0
+      },
+      {
+        "text":"The procedure of dilutions is simple and the author uses \"then\" to transition between steps.",
+        "value":0
+      },
+      {
+        "text":"The essay was straight forward, but did not introduce the topic well or summarize well. The approach to creating the solution was not the most efficient.",
+        "value":0.9340999999999999
+      }
+    ],
+    [
+      {
+        "text":"The equipment is all used properly and the inherent error was calculated correctly.",
+        "value":-0.4019
+      },
+      {
+        "text":"Both the 50 ml flask and the 5 ml pipet were referenced and explained how they would be used.",
+        "value":0
+      },
+      {
+        "text":"The flow is very logical. &nbsp;However, the first few introductory sentences seem fragmented and/or repititious.",
+        "value":0.0516
+      },
+      {
+        "text":"The essay is very well written and addresses the prompt fully.",
+        "value":0.3384
+      }
+    ],
+    [
+      {
+        "text":"Although the procedure given leads to a 2.00x^-4M solution of NaCl if done in the amounts of reagents listed, the process isn't totally feasible given the equipment available. A 5-mL pipet cannot accurately measure 1.17mL of a solution. Likewise, the equipement available cannot accurately measure 48.83mL of distilled water either.",
+        "value":0.6364
+      },
+      {
+        "text":"The procedures list the volumetric equipements to use at each step.",
+        "value":0
+      },
+      {
+        "text":"There are adverbial and adjectival phrases at the beginning of sentences to help with transitions (\"using this value\", \"To do this\", etc.).&nbsp;",
+        "value":0.4404
+      },
+      {
+        "text":"Since the numerical calculations of the serial dilution works out in giving us a 2.0x^-4M solution, points are given in that regard. Nevertheless, the writer suggested the 5mL pipet and 50mL volumetric flask to measure out volumes that wouldn't be possible with that equipement. Even if other equipment is used, the inherent precision will need to be recalculated. Beyond the technical bits, this essay has some grammatical errors as well.",
+        "value":0.4947
+      }
+    ],
+    [
+      {
+        "text":"The procedure suggest takinga 1.17ml aliquot of primary solution with a 5ml pipet which is not feasible. Also, the error of the experiment is, if taking 1.17ml with a 5ml were even possible, in truth over 1%: [(.0002g/.0250g) + 2(.04ml/50ml) + (.01ml/1.17ml)] 0%= 1.81%.",
+        "value":0.21549999999999997
+      },
+      {
+        "text":"Though some of the measurements the procedure suggest is not possible, it does not refer to the use of quantitative equipemtn or procedures.",
+        "value":0
+      },
+      {
+        "text":"The essay makes use of prepositional phrases and transitions to create a flow within the essay.",
+        "value":0.2732
+      },
+      {
+        "text":"In the attempt to satisfy one of the requirements, using a small amount of reagent, the author of the text makes several mistakes such as: calculations with error and measuring 1.17ml aliquot with a 5ml pipet. These mistakes display a vague understanding of the prompt.",
+        "value":-0.7363999999999999
+      }
+    ],
+    [
+      {
+        "text":"Yes the error is less than 1%.",
+        "value":0
+      },
+      {
+        "text":"The text refers to the volumetric flasks as just \"flasks\".",
+        "value":0
+      },
+      {
+        "text":"The essay contains transition words so it is coherent.",
+        "value":0
+      },
+      {
+        "text":"The text could be more specific with what equipment was used and did not use enough sodium chloride in the beginning.",
+        "value":0
+      }
+    ],
+    [
+      {
+        "text":"The dilutions are correctly carried out.",
+        "value":0
+      },
+      {
+        "text":"The student chooses volumetric flasks and pipets accordingly.",
+        "value":0
+      },
+      {
+        "text":"The student clearly labels the steps in the process.",
+        "value":0.4019
+      },
+      {
+        "text":"The only mistake seems to be that the student explains the method of finding the margin of error quite vaguely.",
+        "value":-0.6249
+      }
+    ],
+    [
+      {
+        "text":"His calculation is right. But he forgot the inherent error of the Mettler AE160 balance, which is +-0.2mg, and will cause 0.34% inherent error. Whatever, this will not influence too much.",
+        "value":-0.6597
+      },
+      {
+        "text":"He/she used 50-ml volumetric flask and&nbsp;5-ml volumetric pipet, and also Mettler AE160 balence, which are all standard equipment.",
+        "value":0
+      },
+      {
+        "text":"The logic is&nbsp;apparently.",
+        "value":0
+      },
+      {
+        "text":"Missed the topic sentense and summary sentense &nbsp; &nbsp;-1Used too much NaCl, unnecessary&nbsp; &nbsp;-2",
+        "value":-0.296
+      }
+    ],
+    [
+      {
+        "text":"The suggested procedure use digital balance to weigh 0.5844g NaCl and use 5 ml volumetric pipet and 50 ml volumetric flask to dilute twice in order to get the desired solution. The result solution&nbsp;is 2.00x^(-4)M with an error of 0.95&nbsp;% which is demonstrated in the text.",
+        "value":0.12479999999999997
+      },
+      {
+        "text":"The required equipment for the procedure suggested by the text includes digital balance, 50ml volumetric flask, and 5ml volumetric&nbsp;pipette.&nbsp; All of them are standard quantitative equipment available in the lab.",
+        "value":0
+      },
+      {
+        "text":"The procedure use very clear indicator words like \"first\", \"next\", \"fifth\". It is very easy for reader to follow the writer's idea in this text.",
+        "value":1.1517
+      },
+      {
+        "text":"The procedure suggested in the text includes the very detailed&nbsp;correct steps for&nbsp;serials dilution&nbsp;and verify the inherent error of the dilution falls in&nbsp;the accepted range. However, it requires more than 0.0584 g of NaCl which is more than necessary amount of reagent&nbsp;to achieve the necessary precision. And there is neither introduction sentence at the beginning,&nbsp;nor summary sentence at the end of the text.&nbsp;It is notclear for the reader to understand the procedure.",
+        "value":-0.267
+      }
+    ],
+    [
+      {
+        "text":"Student thoroughly calculated data to achieve said precision.&nbsp;",
+        "value":0
+      },
+      {
+        "text":"Student makes mention of equipments that satisfy this requirement.&nbsp;",
+        "value":0.4588
+      },
+      {
+        "text":"Student goes straight into material without use of transition words or phrases, leading the response to lack flow.&nbsp;",
+        "value":-0.1027
+      },
+      {
+        "text":"Student is missing integral parts.&nbsp;",
+        "value":-0.296
+      }
+    ],
+    [
+      {
+        "text":"The author relies on the reader to conclude certain things, mostly in not specifying the type of equipment used, but once this is accomplished, the dilution steps achieve the desired result.",
+        "value":0.7935
+      },
+      {
+        "text":"While the errors in the equipment are listed, specifics are left out. Again, this is where the reader has to come to the conclusion that they should be using only equipment that matches the exact errors listed in the essay.",
+        "value":-0.68
+      },
+      {
+        "text":"Each sentence begins as its own idea, with the exception of a \"next\" at the start of one of the sentences",
+        "value":0.128
+      },
+      {
+        "text":"The procedure is solid, the errors are included in the measurements, but it is missing some key \"Essay\" elements.",
+        "value":-0.4939
+      }
+    ],
+    [
+      {
+        "text":"The text clearly mentions how the writer got the the amounts required in teh procedure. It did this by using the formula of (m2/m1) = (v1/v2).",
+        "value":0.4019
+      },
+      {
+        "text":"It does mention that 5ml of solution from the past solutions are pipetted into the new solution/flask. However, it failed to mentiont that one needs to fill up the 50ml flask with dilute water in order to find &nbsp;have a dilution of 2*^-4 at the end of the porcedure.",
+        "value":-0.05180000000000007
+      },
+      {
+        "text":"Transition words such as : to start off ... , the purpose of, before and Lastly made the text clearer and easier to follow.&nbsp;",
+        "value":0.4215
+      },
+      {
+        "text":"The main issue with this text is that the procedures could be clearer and how the writer calculated 0.971% inherent error could be better. However, as a whole i really liked how the writer made the text into paragraphs so that the reader can follow the text easier.&nbsp;",
+        "value":0.527
+      }
+    ],
+    [
+      {
+        "text":"This procedure initially suggests that a ml volumetric flask will be used, but I believe this is an unfortunate early typo.[1st solution]=0.584/(22.99+35.45)/0.05000=0.200M[2nd solution]=0.200x0.00500/0.05000=0.0200M[3rd solution]=0.0200x0.005/0.05000=0.00200M[4th solution]=0.00200x0.005/0.0500=0.000200=2.00x^(-4)MTherefore 50ml of NaCl solution with required concentration is achieved by this procedure.",
+        "value":-0.2942000000000001
+      },
+      {
+        "text":"This procedure mentions using a digital balance, pipets and volumetric flasks to make quantitative measurements. Therefore this essay does indeed describe a serial dilution that appropriately uses standard quantitative equipment; however, this procedure does not specify that&nbsp;volumetric&nbsp;pipets should be used.",
+        "value":0
+      },
+      {
+        "text":"The author appropriately used many transition phrases: \"Before...\", \"To start...\", \"and upon...\", \"After...\", \"However,...\", \"Lastly,...\", and \"and so after...\". This contributes to the essay's coherent and logical flow of ideas.",
+        "value":0
+      },
+      {
+        "text":"This essay does alright to describe a procedure that uses appropriate equipment (disregarding the typo in the initial paragraph) to produce the required NaCl solution to the required precision, but a minimum mass of NaCl was not used. Since the main objective was achieved, this essay is off to a decent start.Whilst there were some minor language errors, such as the mis-spelling of see as \"se\", the language was on the whole good. With many appropriate transitions, this essay presents a cohesive and logical flow of ideas that explain the principles behind the proposed dilution scheme very well.The main issue with this procedure is the severe lack of specific experimental guidance. The author fails to how to weigh the sample, how to quantitatively transfer the dye and aliquots of solutions into volumetric flasks. This essay assumes a large amount of information as common knowledge.",
+        "value":-0.46
+      }
+    ],
+    [
+      {
+        "text":"A large assumption is made that the weight of the sample is exactly .5844g, but otherwise, it is a standard serial dilution procedure with an error within the allotted range.",
+        "value":-0.5499
+      },
+      {
+        "text":"The author states familiarity with certain machines, such as the Mettler AE160, in order to lead the reader into following exactly the same procedure and achieving the exact same results.",
+        "value":0.2732
+      },
+      {
+        "text":"First, then, finally...",
+        "value":0
+      },
+      {
+        "text":"Logically and gramatically, the essay is complete. I feel as if the author could have stated some things differently (\"familiarity\" with machines) and structured the essay better to include a proper conclusion. However, the serial dilution steps are correct and the error is well below the mark.",
+        "value":0.2873
+      }
+    ],
+    [
+      {
+        "text":"The procedure used is that of serial dilution and it will result in a 50ml solution of NaCl with a concentration of 2x^-4M with an error of less than 1%. This is possible because the author is using the assigned equipment and the number of serial dilutions will lead to the desired concentration being attained.&nbsp;",
+        "value":0.2373
+      },
+      {
+        "text":"The essay uses the assigned equipment of the volumetric pipette, volumetric flask and the weighing balance, which are the standard quantitative equipment. The serial dilution process is the standard quantitative procedure for acquiring the dilute solution of 2.00x^-4M so the essay satisfies the requirement of using the right procedure and right equipment.&nbsp;",
+        "value":0.6557
+      },
+      {
+        "text":"The essay has a lot of unnecessary repetition in terms of the way the different diluted solutions are described and in terms of the way the procedure is carried out. In addition, the uncertainties/errors of the different pieces of equipment are not stated and the calculation for how the total error was calculated is not shown either, so we have to take the author's word without any proof that the error is what they say it is. The reasoning for some of the steps carried out also does not seem satisfactory, e.g., the reason for which the volumetric pipette and volumetric flask were chosen to perform the experiment.&nbsp;",
+        "value":-0.7573
+      },
+      {
+        "text":"Although this essay describes the procedure accurately, it is missing some key elements such as the calculation of the total inherent error and the individual errors of the equipment used in the experiment. Also, this essay has too much repetition and could be structured in a more concise manner so as to avoid repetition.&nbsp;",
+        "value":-1.0965
+      }
+    ],
+    [
+      {
+        "text":"After three serial dilutions the final solution is of the required concentration within .9542%.",
+        "value":0.3182
+      },
+      {
+        "text":"Yes, the essay describes the use of volumetric flasks, volumetric pipets, and the Mettler AE160 scale.",
+        "value":0.4019
+      },
+      {
+        "text":"The essay flows well and is easy to follow. The procedure is easy to understand and straight forward.",
+        "value":1.1983000000000001
+      },
+      {
+        "text":"The essay is well written and the procedure was well thought out. However, the procedure was not the most efficient possible. That being said, the solution was within the required specifications.",
+        "value":0.44079999999999997
+      }
+    ],
+    [
+      {
+        "text":"the first sentence introduces the topic and goal of the procedure described throughout the essay. The procedure in the essay calls for the use of a balance, 5.00mL pipet, small beakers and a 50.00 mL volumetric flask.",
+        "value":0.0772
+      },
+      {
+        "text":"The procedure described in this essay uses serial dilution and 5.754 g. of sodium chloride to create a 50. mL solution with concentraion 2.00 x-4M. The essay uses a balance, 5.00 mL pipet, small beakers, and 50.00 volumetrice flask to measure amounts of water and sodium chloride to create the solution.",
+        "value":1.0534
+      },
+      {
+        "text":"There are grammatical and spelling errors in the essay. Analyzed is spelled analysed in the essay. Commas and spaces are missing throughout the essay. Milliliters is abreviated ml instead of mL throughout the essay.The only transition word and phrase used throughout the essay is then. It is used as a compound sentence conjunction instead of as a transition between procedure steps.",
+        "value":-0.5588
+      },
+      {
+        "text":"The final sentence of the essay is a statment of fact, not a concluding sentence. The final sentence leaves me with questions and uncertain of the procedure's completion.The numerous errors and unclear ideas earn a 6 from me. The procedure is confusing and unclear at some points.",
+        "value":-0.9359
+      }
+    ],
+    [
+      {
+        "text":"[1st solution]=5.754/(22.99+35.45)/0.05000=1.969M[2nd solution]=1.969x0.00500/0.05000=0.1969M[3rd solution]=0.1969x0.005/0.05000=0.01969M[4th solution]=0.01969x0.005/0.0500=0.001969=1.969x^(-3)MTherefore 50ml of NaCl solution with required concentration is not achieved by this procedure.&nbsp;%error of final solution=(0.0002/5.754 + 0.04/50.00 + 3(0.01/5.00 + 0.04/50.00)) x 0=0.923Although the precision is less than 1%, the author did not accurately calculate the error of the final solution. On top of this, the final solution is not of the required concentration.",
+        "value":0.7030000000000001
+      },
+      {
+        "text":"This procedure uses a digital balance, volumetric flasks and volumetric pipets to make quantitative measurements. Therefore this essay does indeed describe a serial dilution that appropriately uses standard quantitative equipment whenever possible or necessary.&nbsp;",
+        "value":0
+      },
+      {
+        "text":"This essay uses some, but not enough, transition phrases: \"then transfer...\", \"They would then...\", \"The experimenter would again mix...\", and \"This process would be repeated...\". These do a little to contribute to the essay's coherent and logical flow of ideas, but some transitional phrases are grammatically poor; namely \"The experimenter would again mix...\" and \"This process would be repeated\".",
+        "value":-0.631
+      },
+      {
+        "text":"The major flaw in this procedure is the failure to produce NaCl solution of the required concentration. Although, the final solution's precision is under 1%, the author actually miscalculated it to be 0.0%.There are many grammatical errors in this essay. The author systemmatically fails to place a space after periods; this happens three times: \"...solution.They would...\", \"...beaker.This process...\", and \"...step.The error\".There are also many redundant phrases, such as \"it was determined\" and the comment on cleanup of material for efficiency and others.&nbsp;The essay would benefit most from a more coherent flow of ideas, perhaps by using more transitional phrases.",
+        "value":0.03489999999999993
+      }
+    ],
+    [
+      {
+        "text":"Although the procedures are a little confusing at first, the essay basically starts with 5.754g of NaCl and says that 4 serial dilutions are enough to get it down to a concentration of about 2.0x^-4M. The precision is also less than 1%.&nbsp;The only part which causes this procedure to be inaccurate is the initial mass of NaCl. 5.754g of starting NaCl will not give you 2.00x^-4M of solution with a precision less than 1%. This could be a typo, but these numbers are important when it comes to writing scientific papers.&nbsp;",
+        "value":0.4594
+      },
+      {
+        "text":"The essay mentioned the use of the 50mL flash and the 5mL pipet.",
+        "value":0
+      },
+      {
+        "text":"Words such as \"From preliminary calculations\", \"then\", \"In the proposed pathway\", etc.",
+        "value":0
+      },
+      {
+        "text":"Although this pathway can work with the correct mass of starting material, this pathway is not the most optimal pathway.&nbsp;Beakers were not mentioned as equipement that can be used, but their role in these procedures are irrelevant.&nbsp;Some of the procedure is also confusing and not clearly worded.&nbsp;",
+        "value":-0.7096
+      }
+    ],
+    [
+      {
+        "text":"This procedure, from the numbers provided in the last paragraph of the calibration,\"an analytical balance which has inherent error of +.0005 to measure out the mass of solute (.000584g NaCl) and dissolve it into 50ml of water (measured out using a 50.00ml volumetric flask which has inherent error of +.01)\"will result in an error that is appromately 85.63% since error is (0.0005/.000584 + 0.01/50.00)*0 = 85.64%.&nbsp;",
+        "value":-0.8689
+      },
+      {
+        "text":"It seems that only an analytical balance, and a 50mL volumetric flas is used, so it is well within the confines of the resoruces allotted for this procedure. &nbsp;",
+        "value":0.3321
+      },
+      {
+        "text":"The author does a good job of starting out by explaining the necessary goals of this dilution and the calculations. &nbsp;The flow of the procedure is forward leading, resulting in the materials and measurements necessary and a supposedly end point that gives the \"right\" (really wrong in actuality) answer.",
+        "value":-0.0363
+      },
+      {
+        "text":"Since the whole procedure and the process was incorrect, and the author did their calculations/ assumptions completely wrong, I do not think they deserve anything more than a score of five. &nbsp;Without a proper concluding sentance and semi-use of transition phrases, it deserves a score of roughly a three.",
+        "value":-0.5256
+      }
+    ],
+    [
+      {
+        "text":"This text includes the proper precision.&nbsp;",
+        "value":0
+      },
+      {
+        "text":"There is no procedure described.",
+        "value":-0.296
+      },
+      {
+        "text":"Good transitions.&nbsp;",
+        "value":0.4404
+      },
+      {
+        "text":"The text does not have a \"flow\" to it or have a procedure.&nbsp;",
+        "value":0
+      }
+    ],
+    [
+      {
+        "text":"This would produce the desired concentration and uses equipment available but the percision would be questionable using such a small sample of salt.",
+        "value":-0.3071
+      },
+      {
+        "text":"It makes some description of a procedure, but it is very confusing and hard to follow.&nbsp;",
+        "value":-0.5838
+      },
+      {
+        "text":"It lacks any transition words.",
+        "value":0
+      },
+      {
+        "text":"Although this essay does achieve the desired concentration, it fails to use serial dilutions and the inherent error is very large.",
+        "value":-0.5267
+      }
+    ],
+    [
+      {
+        "text":"Assuming that the 5ml aliquot refered to in the procedure is a volumetric pipet, the inherent error in the process would be .9542%.",
+        "value":-0.4019
+      },
+      {
+        "text":"Though the essay neglects to specify that a volumetric pipet is to be used to tranfer 5ml of solution, it does not directly refer or describe the use of quantitative equipment or procedures.",
+        "value":-0.2263
+      },
+      {
+        "text":"The author uses transitions (such as: first, now and then) in order to create coherence and flow; therefore, creating an essay that can be easily read.",
+        "value":0.6908
+      },
+      {
+        "text":"This essay propose a procedure that creates a 2.00x^-4 M solution of NaCl through serial dilution with an error below 1%. However, the procedure did not specify the use of a 5ml pipet for the dilutions, which could result in confusion during a lab.",
+        "value":-0.11809999999999998
+      }
+    ],
+    [
+      {
+        "text":"The procedure decribed in the essay is the ideal method of preparing the final solution when limited to the equipment given and while trying to minimize inherent error.",
+        "value":0.2732
+      },
+      {
+        "text":"The procedure only calls for the usage of the standard quantitative equipment available: the 50.00mL flask, 5.00mL pipet, and the analytical balance.",
+        "value":0
+      },
+      {
+        "text":"The procedure was very organized and presented well with the aid of transition words and a numbering system for easy references to the solutions.",
+        "value":0.6908
+      },
+      {
+        "text":"The text was presented in a way that was very easy to follow, making it easy to replicate the series dilution. The procedure follows all the imposed limitations: usage of the available equipment and inherent error &lt;1%.",
+        "value":0.29080000000000006
+      }
+    ],
+    [
+      {
+        "text":"The procedure uses equipment that would be precise however the concentration in mass is too large and does not need to be that large for the error requested.&nbsp;",
+        "value":-0.4019
+      },
+      {
+        "text":"The procedure addresses exactly which equipment to use and the error in precision of each.&nbsp;",
+        "value":-0.4019
+      },
+      {
+        "text":"Words and transitions like \"first\" or \"then\" allow for the reader to follow the flow of the procedure easily.&nbsp;",
+        "value":0.5267
+      },
+      {
+        "text":"Procedure is correct however it is not detailed enough and has too much room for error.&nbsp;",
+        "value":0
+      }
+    ],
+    [
+      {
+        "text":"Student was able to list specific equpment such as a weighing boat in procedures for this experiement. The student also provided claculation in finding voluemtric pipette and flask error.",
+        "value":-0.4019
+      },
+      {
+        "text":"Student was detailed in proceudre by listing the specific equipment and amount of materials needed to execute dilution. Also stated which steps should be repeated in order to achieve dilution.&nbsp;",
+        "value":0
+      },
+      {
+        "text":"Student used transition words such as transfer to indicate next step. The procedures were clear step by step.",
+        "value":0.3818
+      },
+      {
+        "text":"Student was able to list detailed procedures as well as calculations for error. All in all, writing provides enough detail to excute dilution.",
+        "value":-0.1531
+      }
+    ],
+    [
+      {
+        "text":"The text clearly shows how the writer got the figures that he/she decided to use through explainign the calcuations and the errors of each equipment used.&nbsp;",
+        "value":0.0772
+      },
+      {
+        "text":"As mentioned before, a clear layout of calcuations were included showing how the writer got the data that he/she mentions. Moreover, the writer used all the required equipment and serial dilution method to get the correct concentration.",
+        "value":0.3818
+      },
+      {
+        "text":"Some transiton words were used, such as: In conclusion and Begin. Although more could be used throughout the essay.&nbsp;",
+        "value":0
+      },
+      {
+        "text":"The text was clear and easy to follow with calcuations proving how the writer got his/her data. THe only thing that needs improving is to add more transiton words so that the procedure is more coherent and easy to follow.&nbsp;",
+        "value":1.3857
+      }
+    ],
+    [
+      {
+        "text":"This text uses the balance, the pipet and the flask correctly, with acceptable recording of precisions. The calculations are correct, the dissolved 0.5844g of NaCl in&nbsp;50.00mL water added will yield a concentration of&nbsp;0.2M. When we take 5.00mL of that solution and dilute it ten times (with the 50.00mL flask), we get a&nbsp;0.02M NaCl solution. As the author suggest and repeat the step four times, the solution will be diluted 0 more times, giving us our desired concentration of 2*^-4 M. The precision calculation is also correct and within 1% limit, therefore I say \"yes\" to this question.&nbsp;",
+        "value":1.6006999999999998
+      },
+      {
+        "text":"The paragraph describes the usage of a balance with precision to 0.1 mg, a 50.00 mL volumetric flask and a 5.00 mL pipet. The author explicitly states the precision and uncertainties of his/her equpiments, therefore the answer to this question is \"yes\".&nbsp;",
+        "value":-0.34
+      },
+      {
+        "text":"We can see that the author made a clear list of procedures with transition words such as \"first\", and \"then\". The steps flow logically and therefore I say \"yes\".&nbsp;",
+        "value":0.3818
+      },
+      {
+        "text":"The only problem with this text entry is that the author suggested using 0.5844 g of reagent, which is more than the minimal required amount of 0.0584 to make the solution. Therefore I think it is reasonable to take one point off his/her text and giving him/her a final score of 9.&nbsp;",
+        "value":0.2373
+      }
+    ],
+    [
+      {
+        "text":"The procedure starts of with 0.584g NaCl, which when diluted 3 times using a 5.00 mL pipet and a 50.00 mL volumetric flask will give a concentration of 2x^-4 M with a volume of 0 mL.&nbsp;",
+        "value":0
+      },
+      {
+        "text":"Yes, the author writes about the use of an analytical balance, a 5.00 mL pipet, and a 50.00 mL volumetric flask.",
+        "value":0.4019
+      },
+      {
+        "text":"The whole essay&nbsp;flows nicely as the writer uses many transitional words and phrases to give a flow to the essay, using the words such as while, since, if, and then.&nbsp;",
+        "value":0.4404
+      },
+      {
+        "text":"The procedure uses more than 0.0584 g of solute and had minor grammatical errors in the essay. Besides these minor errors, the essay is clear and coherent and satisfies the error constraint.",
+        "value":-0.26280000000000003
+      }
+    ],
+    [
+      {
+        "text":"The student indeed talks about diluting 0.584g of NaCl three times to give a 2x-4M of diluted solution and the inherent precentage error, although he calculated wrongly, is still below 1%. The accurate inherent percentage erorr is 0.95% and is below 1.0%.",
+        "value":-0.1027
+      },
+      {
+        "text":"The essay talks about using 5.00ml of peipet and 50.00ml volumetric flask.",
+        "value":0
+      },
+      {
+        "text":"It uses \"after\", \"while\" and \"therefore\".",
+        "value":0
+      },
+      {
+        "text":"The inherent percentage error is calcualted wrongly and the student uses more chemical than needed. Moreover, he did not write out the procedure clearly and causes some confusions at certain parts of the essay. His writing also has some grammar and formatting issues. For example. he wrote \"5.00mL- volumetric peipets\" and \"50.00-mL volumetric flasks\" which are inconsistent.&nbsp;",
+        "value":0.038500000000000034
+      }
+    ],
+    [
+      {
+        "text":"The desired concentration is obtained through the suggested procedure, with an inherent error of 0.974%, which is less than 1%.",
+        "value":-0.1531
+      },
+      {
+        "text":"The procedure steps for usage of a volumetric flask was not described (e.g. filling to 2/3 and swirl, filling to the mark and inverting back and forth)",
+        "value":0
+      },
+      {
+        "text":"Words such as 'therefore', 'while' were used.",
+        "value":0
+      },
+      {
+        "text":"Calculation of inherent errors was done correctly, although some procedure was not described fully and too high a mass of NaCl was used to prepare the solution.",
+        "value":-0.0258
+      }
+    ],
+    [
+      {
+        "text":"The author violates the instructions by incorrectly involving the use of&nbsp;mL pipet and the 0mL volumetric flask. While ultimately this process produces a 50mL aqueous solution of sodium chloride with a concentration of 2.00x-4M and uses at least&nbsp;3 significant figures (thus producing a&nbsp;precision of 1% or less) on each measurement, it does not use the correct equiptment.",
+        "value":-0.03390000000000004
+      },
+      {
+        "text":"While the process&nbsp;incorrectly involves the use of&nbsp;mL pipet and the 0mL volumetric flask, in addition to the appropriate 5mL pipet and 50mL volumetric flask, the process does use standard quantitative equiptment.",
+        "value":0
+      },
+      {
+        "text":"The author uses words and phrases including \"to start\", \"after that\", \"now\", and \"finally\", which makes the text clear and straightforward.",
+        "value":0.3818
+      },
+      {
+        "text":"The&nbsp;text is cleat and it indicates the author understands the process of serial dilution.&nbsp;While the text does contain&nbsp;minor errors, including the use of more reagent than necessary and the violation of the directions by involving the use of&nbsp;mL pipet and the 0mL volumetric flask, these errors do not affect the overall&nbsp;serial dilution process.",
+        "value":-0.7906
+      }
+    ],
+    [
+      {
+        "text":"The procedure is wrong as it should not start with 1.1688 g.",
+        "value":-0.4767
+      },
+      {
+        "text":"Other than the fact that the procedure is wrong, the writing of the procedure itself is very easy to follow and highlights a procedure to make the solution.&nbsp;",
+        "value":0.024
+      },
+      {
+        "text":"There are transition words like \"to start\", \"after that\", and \"finally\" that help to create the flow of the paragraph.",
+        "value":0.743
+      },
+      {
+        "text":"The procedure being wrong definitely drops the score by a decent amount. The writer doesn't seem to know how to create the solution, which is the main purpose of the assignment. Everythign else seems good, though.",
+        "value":0.8644
+      }
+    ],
+    [
+      {
+        "text":"The procedure suggests using equipment that was not avilable, such as a 0mL volumetric flask and a mL pipet. The error caused by the dilution scheme is above 1%.&nbsp;",
+        "value":-0.4019
+      },
+      {
+        "text":"The essay describes a procedure using standard quantitative equipment.&nbsp;",
+        "value":0
+      },
+      {
+        "text":"The essay has a proper flow of ideas and correctly uses transition words and phrases.&nbsp;",
+        "value":0
+      },
+      {
+        "text":"The essay had a good structure, a logical flow of ideas, and ended with the correct concentration, but it did not come out with the correct error calculation. The error calculation that was used resulted in an error that was far less than the actual error was. The essay also described using equipent that was not available, such as the mL pipet and the 0mL volumetric flasks.&nbsp;",
+        "value":-1.1782
+      }
+    ],
+    [
+      {
+        "text":"The text describes a procedure which will result in a solution of desired concentration formed with less than 1% error.&nbsp;",
+        "value":0.5267
+      },
+      {
+        "text":"The solution is prepred using 5 mL volumetric pipet and 50mL volumetric flask&nbsp;",
+        "value":0.3182
+      },
+      {
+        "text":"The writing could be a little more lucid, however the logical flow of ideas is present.&nbsp;",
+        "value":0
+      },
+      {
+        "text":"The writer has an overall understadning of the concepts. The text does contain grammatical error however they do not affect the argument. Sections are clear and organised&nbsp;",
+        "value":0.23119999999999996
+      }
+    ],
+    [
+      {
+        "text":"The essay describes how to achieve a 2.0**-4 serial dilution with the procedures&nbsp;listed. Also, the inherent error calculated within the essay also portrays an inherent error less than 1% which is what was required for the experiment.&nbsp;",
+        "value":-0.6597
+      },
+      {
+        "text":"The essay includes a procedure with the use of specific standard quantitative equipment such as the 5 mL volmetric pipets and the 50 mL volumetric flasks. The experiment achieves the correct molarity of the aqueous solution in&nbsp;the end with the use of these standard quantitative equipment.&nbsp;",
+        "value":0.3182
+      },
+      {
+        "text":"The essay contains transition words such as \"first\" and \"second\" in order to present flowing procedural steps for the dilutions. However the essay lacks an essay structure with explanations of the experiment and only mainly includes calculations.&nbsp;",
+        "value":0
+      },
+      {
+        "text":"The essay excels in providing the correct calculations in achieving the correct concentration of the solution as well as providing an experiment which fulfills the precise measurement, which is provided by an inherent error of less than 1%. However the essay lacks explanations, only providing procedural steps and calculations. The essay, although profoundly giving thorough calculations of the experiment, lacks the form of an essay and takes on more of a flowchart of procedures.&nbsp;",
+        "value":1.0751
+      }
+    ],
+    [
+      {
+        "text":"Same procedure as the last one the answer was yes to.",
+        "value":0.4019
+      },
+      {
+        "text":"Pipetting into flasks, check.",
+        "value":0
+      },
+      {
+        "text":"Transitions occur.",
+        "value":0
+      },
+      {
+        "text":"Grammar mistakes can be ignored due to the clarity of the general procedure as well as the legible math.",
+        "value":0
+      }
+    ],
+    [
+      {
+        "text":"The procedure uses equipment that aren't listed in the parameters of the essay question, such as a beaker, buret and stirring rod. Since there is no mention of how much NaCl to use, the essay does not teach the reader how to prepare a 50mL aqueous solution of concentration 2.00 x-4M using serial dilutions.&nbsp;",
+        "value":0.0258
+      },
+      {
+        "text":"There is no mention of quantitative procedures or even the use of pipets or volumetric flasks.",
+        "value":-0.296
+      },
+      {
+        "text":"There is no logical flow to the essay. It is confusing when the author says \"Calculate the amount of increments of 5mL needed to titrate to a concentration of 2.00 X  E-4\". Other parts of the essay are confusing as well.&nbsp;",
+        "value":-0.7485999999999999
+      },
+      {
+        "text":"The procedure leaves the reader to decide how much NaCl to use. The equation listed is for titrations of acid-base solutions, which is not relevant to the essay question. There is no mention of quantitative procedures, and there are many grammatical and spelling errors. There is also no mention of the inherent error.",
+        "value":-0.9789000000000001
+      }
+    ],
+    [
+      {
+        "text":"A procedure for a different experiment is described.",
+        "value":0
+      },
+      {
+        "text":"Volumetric equipment such as beakers were mentioned, and so were volume measurements.",
+        "value":0
+      },
+      {
+        "text":"No transition words were present. Each sentence is direct and descriptional in nature, which inherently means the essay does not flow smoothly as it is read.",
+        "value":-0.2188
+      },
+      {
+        "text":"The prompt was not answered. The wrong procedure is given, so&nbsp;the objectives of the experiment could not be met.",
+        "value":-0.4767
+      }
+    ],
+    [
+      {
+        "text":"The essay did not specify the procedure so I can't conclude if the procedure is feasible because there are thousands of possibilities performing this procedure.&nbsp;",
+        "value":0
+      },
+      {
+        "text":"The student did not use pipet.&nbsp;",
+        "value":0
+      },
+      {
+        "text":"The essay uses \"when\" and \"first\".",
+        "value":0
+      },
+      {
+        "text":"The essay does&nbsp;not address&nbsp;the prompt and does not provide a specific procedure. Neither is percentage inherent error calculated in this essay. Standard equipments are not used and there are also punctuation mistakes.&nbsp;",
+        "value":-0.4019
+      }
+    ],
+    [
+      {
+        "text":"The procedure uses only the available equpiment. The two dilutions create a final solution with the correct concentration and a precision just under the maximum.",
+        "value":0.5267
+      },
+      {
+        "text":"The essay clearly states the necessary use of 5 mL pipets and 50 mL volumetric flasks. These use of these two types of glassware is stated in each step.",
+        "value":0.4019
+      },
+      {
+        "text":"The essay includes words like \"once,\" \"after,\" \"though,\" and \"therefore\" to create transitions between steps and ideas. These transitions help logically connect different steps in the procedure as well as reinforce the thought behind the decision to perform the dilution this way.&nbsp;",
+        "value":1.1433
+      },
+      {
+        "text":"The essay should be highly rated because it outlines a viable procedure that would meet all necessary requirements for the error, equipment use, and final concentration. It also explained the reasoning behind the steps in a coherent and thoughtful way. The essay could be improved with better introduction and conclusion sentences, as well as by fixing a few spelling errors.&nbsp;",
+        "value":0.7873
+      }
+    ],
+    [
+      {
+        "text":"The procedure suggested is valid for preparing the desired solution.",
+        "value":0.5267
+      },
+      {
+        "text":"The procedure described uses the standard quantitative equipment",
+        "value":0
+      },
+      {
+        "text":"The dilution procedure and the concentrations of the intermediate solutions should have been elaborated upon.&nbsp;",
+        "value":0.1779
+      },
+      {
+        "text":"The writer has an overall understadning of the concepts. The procedure should have been elaborated upon a little more",
+        "value":0
+      }
+    ],
+    [
+      {
+        "text":"This procedure only uses available equipments to produce the desired solution with a specific inherent error.",
+        "value":0.1779
+      },
+      {
+        "text":"The essay satisfies all requirements.",
+        "value":0.4215
+      },
+      {
+        "text":"The essay contains lots of \"after\" to provide a path of logic flow.",
+        "value":0
+      },
+      {
+        "text":"The essay is pretty clear in explaining the experiment procedure. However, I personally feel the second graph is too redundant since it does not provide any useful information about this procedure.",
+        "value":0.35910000000000003
+      }
+    ],
+    [
+      {
+        "text":"The writer wants a precision to the microgram, but the balance is only precise to +/- 0.2 milligram. Measuring 5.84 x ^-4 g gives an error of over 30%.",
+        "value":-0.4019
+      },
+      {
+        "text":"Though the process is wrong, the writer suggests using standard equipment.",
+        "value":-0.4767
+      },
+      {
+        "text":"Transition words or phrases and repetition of words are used to give coherence and logical flow to the ideas presented in the essay.",
+        "value":0
+      },
+      {
+        "text":"The data produced by the proposed experiment would be completely unusable.",
+        "value":0
+      }
+    ],
+    [
+      {
+        "text":"The described procedure beginning with weighing 5.84x-4&nbsp;will yield a solution of the correct concentration after two dilutions and the equipment used yields the correct precision.",
+        "value":0.3182
+      },
+      {
+        "text":"The essay describes a procedure that includes the use of precise equipment and justifies the need to use that specific equipment.&nbsp;",
+        "value":0
+      },
+      {
+        "text":"Transition words are present throughout the essay, which make it easier to understand the steps in the procedure.&nbsp;",
+        "value":0.4215
+      },
+      {
+        "text":"The writer spends a lot of time justifying the need to use specific equipment but they don't use correct reasoning and they overlook many details in their descriptions. I could not follow along with which dilution the author was referring to. For example, in the first dilution, the author says to transfer the NaCl to a 50mL flask but does not specify to fill with water to the mark and then jumps to saying to transfer 5mL of this solution into another empty flask.&nbsp;",
+        "value":0.3044
+      }
+    ],
+    [
+      {
+        "text":"The procedure creates a 2.00 x-5M solution. &nbsp;The precision is also above 30% because the small amount of NaCl required results in a large inherent error when weighing the NaCl.",
+        "value":0.12479999999999997
+      },
+      {
+        "text":"Though the procedure does not create the desired solution, it does use standard equipment and procedures.",
+        "value":-0.0844
+      },
+      {
+        "text":"Transitions seem to be added on rather than natural-sounding. The essay also digresses to explain inherent error in the middle of the procedure.",
+        "value":-0.4019
+      },
+      {
+        "text":"The essay fails to meet the requirements and shows a lack of understanding in using a serial dilution to create a desired solution. The author starts the procedure by working backwards from the desired concentration to find the weight of NaCl needed to directly create a 2 x-4M solution. Though this already creates the desired concentration, the author decides to proceed with a serial dilution, which dilutes the solution too much. It seems that the author added that second part to the procedure simply to meet the requirement of the solution being a serial dilution. Furthermore, the author never addresses the precision of the procedure. They use the words \"inherent error\" but do not understand what \"precision of less than 1%\" really means, as shown by the faulty explanation of inherent error. The biggest thing the author overlooks is the error of the electronic balance. Weighing such a small quantity of NaCl on the electronic balance creates an unacceptably large error; no matter what the rest of the procedure is, this first step has already produced over 1% inherent error. This essay shows no understanding of the concepts of this assignment.",
+        "value":-0.4056999999999999
+      }
+    ],
+    [
+      {
+        "text":"The student mentions which equipment is to be used and gives reasons as to why it is important to use them in this experiment. They give explanations on how to obtain the molarity of the solution and why it would fall below an inherent error or 1% &nbsp;or less by using the propagation of errors formula.&nbsp;",
+        "value":-0.21919999999999998
+      },
+      {
+        "text":"They describe that the use of a 50-mL volumetric flask and a 5-mL volumetric pipet is needed to make the correct concentration of the solution. They also mention the use for an analytical balance, which would make the measurement of weight of NaCl more accurate.&nbsp;",
+        "value":0.3182
+      },
+      {
+        "text":"They use transition words for each step mentioned make use of repeating serial dilutions and error.&nbsp;",
+        "value":0
+      },
+      {
+        "text":"The text was excellent overall and gives a thorough explanation on what a serial dilution is and why certain equipment is used for the experiment in order to have the desired solution at a specific concentration.&nbsp;",
+        "value":0.8481
+      }
+    ],
+    [
+      {
+        "text":"it is mentioned clearly in the essay that \"To obtain a solution of NaCl with a concentration of 2.00 x-4M with an inherent error of 1% or less, NaCl, an analytic balance a 50-ml volumetric flask, and a 5-ml pipet are needed.&nbsp;\"",
+        "value":0.3182
+      },
+      {
+        "text":"The essay mentions that it is going to using 0.6779gram of NaCl, which is way more than nessasary. But the other dilluting procedure is right.",
+        "value":0
+      },
+      {
+        "text":"the phrase \"is three quarters full&nbsp;\" is not very clear and should be worked on in a sicentific essay.",
+        "value":-0.3401
+      },
+      {
+        "text":"ALL in all is a good procedure with in the error range. The data is a bit confusing but essentially right.",
+        "value":-0.0638
+      }
+    ],
+    [
+      {
+        "text":"If the essay procedure is followed, the resulting solution will have a concentration around 2.32x^-4M.",
+        "value":0.3182
+      },
+      {
+        "text":"Yes, the essay describes a procedure using standard quantitiative equipment, as can be seen with the analytic balance, 50mL volumetric flask, and 5mL pipet.",
+        "value":0.4019
+      },
+      {
+        "text":"The essay is easy to follow procedurally and explains in relative detail what is happening throughout the experiment.",
+        "value":0.4404
+      },
+      {
+        "text":"While the essay yields a solution close to 2.00x^-4M, it is using an unnecessarily large initial amount of NaCl. However, the serial dilution procedure is correct and easy to follow. According to the essay, the inherent error value is also within the given parameters. Thus, it adequately satisifies the given requirements.",
+        "value":0.6813999999999999
+      }
+    ],
+    [
+      {
+        "text":"The procedure described in the essay better resembles the usage&nbsp;of one dilution rather than a series dilution to obtain the final concentration. Also, it would not be feasible to weigh, with confidence, 0.6mg of NaCl on a scale with uncertainty of 0.2mg. Additionally, the precision of the final solution, as proposed by this procedure, will not be less than 1%. Usage of the pipet nine times will result in a total inherent of error of at least 9*(0.01/5)=1.9%.&nbsp;",
+        "value":0.5830000000000002
+      },
+      {
+        "text":"The essay calls for the usage of both the 5mL pipet as wel as the balance to prepare the solution.",
+        "value":0.3182
+      },
+      {
+        "text":"Usage of transition words such as \"first\", \"however\", and \"lastly\" all contribute to reader being able to easily follow the thought processes of the author.",
+        "value":0.34
+      },
+      {
+        "text":"The text was easy to follow and well organized. However, the concept of performing serial dilutions was not appropriately addressed and the calculations for inherent error was flawed.",
+        "value":0.21050000000000008
+      }
+    ],
+    [
+      {
+        "text":"The author forgot to include the error from the electronic balance. The initial amount of sodium chloride used is so small that its error is greater than 1%.",
+        "value":-0.45349999999999996
+      },
+      {
+        "text":"The text refers to \"flasks\", not volumetric flasks.",
+        "value":0
+      },
+      {
+        "text":"The author uses \"lastly\", \"as proof\", etc.",
+        "value":0
+      },
+      {
+        "text":"The work is wrong and is not detailed enough in certain areas.",
+        "value":-0.25
+      }
+    ],
+    [
+      {
+        "text":"In the conclusion, the writer clearly shows how the error of 0.78%~0.8% can be obtained form the experiment. However, the writer could be more deatiled about how the equipments are used throughout the procedure.",
+        "value":0
+      },
+      {
+        "text":"The text menitons the use of pipettes, balance and volumetric flasks. It clearly metnions that a pipet is used to transfer solution into teh flask, in addition with how much is required in the flask and pipet.&nbsp;",
+        "value":0.6124
+      },
+      {
+        "text":"Only one transition word has been used, and this is 'lastly'. More transition words could be used to make the text easier to read and follow.&nbsp;",
+        "value":0.4215
+      },
+      {
+        "text":"The text could be more detailed regarding th use of equipments and be more specific about the procedure of serial dilutions. Moreover, an introductory sentence would make the text more understandable if the reader has no knowledge regarding the experiment.&nbsp;",
+        "value":-0.2263
+      }
+    ],
+    [
+      {
+        "text":"If one weighs out 0.584g of NaCl and only does two serial dilutions, the resulting concentration will be 2.00x^-3M rather than 2.00x^-4M.",
+        "value":0
+      },
+      {
+        "text":"In the essay, only 5mL pipets and 50mL volumetric flasks are used to obtain the solution.",
+        "value":0.3182
+      },
+      {
+        "text":"The essay has a continuous flow throughout it. It starts with the procedure of both obtaining a standard solution and serial dilutions then goes on to address inherent error calculation.",
+        "value":-0.1027
+      },
+      {
+        "text":"While well written and concise, the procedure set forth by the essay fails to yield the desired concentration within the given parameters. The person has a sense of how to go about the procedure and what it entails, but given the mistake in calculation, or one decimal place, it fails to meet the criteria of the assignment.",
+        "value":-0.6756
+      }
+    ],
+    [
+      {
+        "text":"Though the exact total error percentage may be a bit off, the procedure proposed would indeed be feasible to perform with standard equipment and produce error less than 1%.",
+        "value":-0.6597
+      },
+      {
+        "text":"The writer proposes using standard quantitative equipment and standard quantitative procedures, as can be surmised by a cursory glance at the essay.",
+        "value":0
+      },
+      {
+        "text":"Using our handy-dandy eyeballs, we see that the essay contains such transition words as 'first', 'after', 'continue', and 'finally'. What's more, they're even in a logical order! How exciting.",
+        "value":0.4939
+      },
+      {
+        "text":"Following the proposed procedure would produce good results within the desired margin of error; and as any scientist knows, results are all that matter in this world.",
+        "value":0.34
+      }
+    ],
+    [
+      {
+        "text":"it three times dilutes the solid mass of .584&nbsp;",
+        "value":0.1531
+      },
+      {
+        "text":"yes, it reffers to the scale, the 5ml pipette, and the 50 ml flask",
+        "value":0.4019
+      },
+      {
+        "text":"its very thurough, yet not too dence. flows well",
+        "value":0.2732
+      },
+      {
+        "text":"the essay was almost perfect. Besides the mass being incorrect, it makes a couple small errors in refference to \"series dilutions\" and breaks up the procedure into two \"methods\"",
+        "value":0.1879
+      }
+    ],
+    [
+      {
+        "text":"The procedure creates the desired concentration and lists the precision of less than 1%.",
+        "value":0.4939
+      },
+      {
+        "text":"Procedure uses only the eqipment provided and using techniques that we use in the lab.",
+        "value":0
+      },
+      {
+        "text":"There are very few transistions, and the transisitions are repetitive",
+        "value":-0.25
+      },
+      {
+        "text":"The procedure explains clearly how to create the desired solution, and also accounts for limitations in equipment that could create error.",
+        "value":0.765
+      }
+    ],
+    [
+      {
+        "text":"This procedure is the same as the calibration entry that received a score of 9 our of . The three serial dilutions do result in a 50 ml aqueous solution of NaCl of concentration 2.00 x-4M with a precision of 0.954% inherent error.",
+        "value":-0.1027
+      },
+      {
+        "text":"The essay does describe the use of standard quantitative equipment, such as 5.00-mL pipets and 50.00-mL volumetric flasks.&nbsp;",
+        "value":0
+      },
+      {
+        "text":"There are transition phrases like \"My design is to first...\" and \"Then fill the flask\" and \"Because the digital balance weigh to 0.1 mg, I cannot...\". These phrases along with the organization of the essay create coherence and logical flow within the essay.",
+        "value":0.6344000000000001
+      },
+      {
+        "text":"Every criterion for excellence is met in this procedure. There are introductory and conclusive sentences, there is logical flow, and the procedure is easy to follow and correct in its methodologies and results. I see no errors in the essay.",
+        "value":0.5441999999999999
+      }
+    ],
+    [
+      {
+        "text":"The procedure outlined in this essay will yield a solution of the correct concentration.",
+        "value":0.3182
+      },
+      {
+        "text":"The procedure uses standard quantitative equipment that allows for the experiment to be precise.&nbsp;",
+        "value":0
+      },
+      {
+        "text":"The only transition word that I see is \"then\" and it is used quite often so it does not give the essay a coherent flow and instead sounds choppy.&nbsp;",
+        "value":0
+      },
+      {
+        "text":"The essay contains an excellent introduction and conclusion but there were many errors within the essay. The procedure and explanations were all correct but grammatical errors were prevalent throughout the entire essay and NaCl was mistakenly replaced by NaOH several times. The procedure was correct but it could be improved by using better transition words and the writer needs to be more specific. For example, when they say to fill the flask with waer, they need to be specific and mention that the flask needs to be filled up to the mark, not just filled to the brim.&nbsp;",
+        "value":-0.0595
+      }
+    ],
+    [
+      {
+        "text":"Yes, because this person goes through each step on how to properly dilute each solution and how do so precisely to reduce the inherent error.",
+        "value":0.3182
+      },
+      {
+        "text":"This person uses in their procedure to use quantitative equipment to make the solution.",
+        "value":0.3182
+      },
+      {
+        "text":"The text is coherent but it does not contain many transitional words from one sentence to the next.",
+        "value":0.1154
+      },
+      {
+        "text":"The essay is overall a good essay. It lacks transitional words to make it flow from one step to the other. The writer does explain how to limit the inherent error of the solution therefore that helps the text.",
+        "value":0.7363999999999999
+      }
+    ],
+    [
+      {
+        "text":"All requirements are satisfied: Stardard equipments are used, desired result is yielded, and the inherent error is in the required range.",
+        "value":0.296
+      },
+      {
+        "text":"All restrictions are satisfied; only 5-ml pipet and 50-ml volumetric flask are used.",
+        "value":0.4215
+      },
+      {
+        "text":"There is one \"lastly\" used as transition words. However the logic flow is pretty clear.",
+        "value":0.7003
+      },
+      {
+        "text":"This essay introduces the procedure of making the desired solution with a specific concentration and inherent error range. It would be perfect with more transitions words and a clear concluding sentence.",
+        "value":0.9429000000000001
+      }
+    ],
+    [
+      {
+        "text":"The procedure proposes the proper use of the equipment and the inherent error in the process would be .9542%.",
+        "value":-0.4019
+      },
+      {
+        "text":"All the equiment the procedure suggests using is volumetric.",
+        "value":0
+      },
+      {
+        "text":"Though the essay is easy to read, no transitions are used and the essay is mostly in 1st person.",
+        "value":0.1779
+      },
+      {
+        "text":"The text suggest that the author has a good understanding of the prompt while only making a few marginal errors.",
+        "value":0.128
+      }
+    ],
+    [
+      {
+        "text":"In this experiment it would create a concentration of 0.001M instead of the desired conentration.",
+        "value":0.4939
+      },
+      {
+        "text":"It clearly descibes the material needed in the first sentence.",
+        "value":0.4588
+      },
+      {
+        "text":"It uses transition words like \"first\", \"next\" and \"then\" to signal a new step.",
+        "value":0.3612
+      },
+      {
+        "text":"The essay is well written, but it doesnt reach the correct end concentration.",
+        "value":0.1126
+      }
+    ],
+    [
+      {
+        "text":"They give reasons for using the equipment mentioned in the beginning of the text by using a 50-mL volumetric flask, which has an error +/-0.04, which is less than the error of using a beaker or other glassware.&nbsp;",
+        "value":-0.6597
+      },
+      {
+        "text":"They mention in the beginning and the end of the text the need for the experiment to use a volumetric flask and a volumetric pipet to have the desired concentration of the solution. They also mention the importance of certain steps in the procedure that would cause for more of an error when preparing the solution.&nbsp;",
+        "value":0.6888
+      },
+      {
+        "text":"The text uses words at the beginning of each step in order to create logical flow of the ideas presented. That way, the reader follows the procedure easily.&nbsp;",
+        "value":0.2732
+      },
+      {
+        "text":"The text is good overall, but it does not mention the part where serial dillutions are to be carried out in order to achieve the desired concentration of solution.&nbsp;",
+        "value":0.5574
+      }
+    ],
+    [
+      {
+        "text":"As the writer indicated above, each step and piece of equipment was selected to guarantee the prepartion of a 50mL aqueous solution.",
+        "value":0.5106
+      },
+      {
+        "text":"The introduction of this essay specifies what equipments are going to be used and are all in standard quantitative equipments.",
+        "value":0
+      },
+      {
+        "text":"There is nothing that disturbs the flow of this essay.",
+        "value":0.3412
+      },
+      {
+        "text":"This essay is a good example of what the essay needs to be. It has a topic sentence, concluding sentence, and logical flow in it.",
+        "value":0.5935
+      }
+    ],
+    [
+      {
+        "text":"it accuratey instructs to dilute the solution twice with only a strange phraising on how much distilled water to use (45 ml instead of just saying to fill the flask)",
+        "value":0.128
+      },
+      {
+        "text":"yes, it uses 50ml flask, a 5ml pipette, and the appropriate scale",
+        "value":0.4019
+      },
+      {
+        "text":"its a very smooth read and is easy to understand.&nbsp;",
+        "value":0.4404
+      },
+      {
+        "text":"despite the fact i think a math error may have been made&nbsp;",
+        "value":-0.4019
+      }
+    ],
+    [
+      {
+        "text":"This essay is accurate at preparing the correct solution with correct concentration.",
+        "value":0.3182
+      },
+      {
+        "text":"This essay uses only the equipment allowed and a standard procedure.",
+        "value":0
+      },
+      {
+        "text":"It uses words like \"first\", \"now\" and \"then\" signalling a new step.",
+        "value":0.3612
+      },
+      {
+        "text":"This essay is very well written with almost no errors. &nbsp;It is easy to follow and within all the guidelines.",
+        "value":0.2784
+      }
+    ],
+    [
+      {
+        "text":"The described procedure is feasible and the final concentration would be that of the desired value, but no calculations were given to prove that the final desired concentration has an inherent error of less than 1%.",
+        "value":-0.3506
+      },
+      {
+        "text":"Volumetric equipment such as flasks and pipets were mentioned.",
+        "value":0
+      },
+      {
+        "text":"Transition words and phrases such as \"next\", \"this\", \"then\", \"after that\" are present. The essay reads smoothly and each sentence connects with the previous.",
+        "value":0.0772
+      },
+      {
+        "text":"A correct procedure was described, but the essay does not leave the reader convinced that the restriction on the inherent error was satisfied. Calculations of the total error attributed to the volumentric glassware must be included. Also, the reported calculations of the concentrations at each dilution do not have the required number of&nbsp;significant figures.",
+        "value":-0.012699999999999975
+      }
+    ],
+    [
+      {
+        "text":"The procedure described is impossible in most labs as a stock solution of 2.00 x-4M NaCl is not readily available.",
+        "value":0.3182
+      },
+      {
+        "text":"Although the author describes the use of a volumetric pipet, they do not discuss the need for proper quantitative technique in preparing a precise solution.",
+        "value":0.3182
+      },
+      {
+        "text":"Although the essay contains some use of transitional vocabulary, it is not consistent throughout the entirety of the essay.",
+        "value":0
+      },
+      {
+        "text":"The essay does not address the proper procedure indicated in the prompt in preparing the aforementioned solution. It also lacks consistent use of transitional techniques in writing and a concluding summary sentence.&nbsp;",
+        "value":0.3182
+      }
+    ],
+    [
+      {
+        "text":"No amount of NaCl&nbsp;seems to be measured out.",
+        "value":-0.296
+      },
+      {
+        "text":"Pipets and volumetric flasks are mentioned.",
+        "value":0
+      },
+      {
+        "text":"Some transition words can be seen at the beginning of sentences.",
+        "value":0.0516
+      },
+      {
+        "text":"Not much content; describes the procedure but not the actual undertaking of measuring and pipetting out the correct amounts.",
+        "value":0
+      }
+    ],
+    [
+      {
+        "text":"25-mL volumetric pipet is not allowed to be used. The procedure of making the&nbsp;2.00 x-4M solution is not stated. The initial mass of NaCl is not stated.",
+        "value":0.3182
+      },
+      {
+        "text":"There is no procedure of making the solution.",
+        "value":0.0258
+      },
+      {
+        "text":"There are words like \"Therefore\" and &nbsp;\"however\".",
+        "value":0.3612
+      },
+      {
+        "text":"There is no procedure of making a&nbsp;2.00 x-4M solution, which is basically the prompt asks the author to write about.&nbsp;",
+        "value":0.0258
+      }
+    ],
+    [
+      {
+        "text":"everything in the procedure is able to be done as well as the measurements are able to be carried out using the equipment",
+        "value":0.2732
+      },
+      {
+        "text":"they clearly state the need for 50ml volumetric flask, 5ml volumetric pipet, and 0ml volumetric flask",
+        "value":0.4019
+      },
+      {
+        "text":"they put the procedures in an outline format rather than a paragraph with transitions",
+        "value":0
+      },
+      {
+        "text":"the procedures are correct however it is not in a paragraph format and does not include opening or closing statements.",
+        "value":0
+      }
+    ],
+    [
+      {
+        "text":"The suggested procedure uses the balance, the pipet and the flask correctly, with acceptable recording of precisions. However, the text includes a usage of a 0mL volumetric flask at procedure C), which is not available to use based on the source materials. Therefore the suggest procedure does not satisfy the requirement of using available equipments. Additionally, the calculation of the concentration is wrong as the author uses 0mL volumetric flask. The 5mL solution transferred into the 0mL flask using the pipet will dilute the solution 20 times instead of  times, resulting a concentration of 0.01 M solution for the second solution instead of 0.02M. Subsequently, solution 3 and 4 have concentration of 5*^-3 and 2.5*^-5, which is not what we desired. Furthermore, when the author is calculating the precision of the procedure, he/she did not include the error from the 0 mL flask explicitly, he/she wrote it as 0.04/50 in the calculation. Even though the value is the same, but since the flask the author used is 0 mL, the error should be presented as 0.08/0 mL to be more clear. &nbsp;Therefore I say \"no\" to this question.&nbsp;&nbsp;&nbsp;",
+        "value":0.9674
+      },
+      {
+        "text":"The paragraph describes the usage of an analytical balance with precision to 0.1 mg, a 50 mL volumetric flask, a 0 mL volumetric flask and a 5 mL pipet, though the author did not explicitly state the precision of the flask and the pipet. These equipments, however, are in fact standard and quantitative, therefore I say&nbsp;\"yes\" to this question",
+        "value":0
+      },
+      {
+        "text":"Even though there is no explicit words such as \"then\" or \"next\" in this text, but from the Calibrations we learned that listing procedures count as having a coherent and logical flow. The author illustrated clear procedure section and reasoning/explanation section. As a result,&nbsp;this essay, with its list of comprehensive steps to take for the serial dilution and explanation, the answer to this question is \"yes\".&nbsp;",
+        "value":0.47869999999999996
+      },
+      {
+        "text":"First, the text does not have a topic sentence nor a concluding sentence. Second, the author uses more than 0.0584 g of NaCl, which puts him/her at using up more reagent than necessary. Third, the text suggested using a 0 mL flask, which is not listed as an avaliable equipment in the source materials. Fourth, the text made wrong calculations regarding the final concentrations of the soltuion. As a result, I think it is reasonable to take five points off the text, resulting a final score of 5.&nbsp;",
+        "value":-0.5906
+      }
+    ],
+    [
+      {
+        "text":"The equipment is all used properly and the inherent error is calculated correctly.",
+        "value":-0.4019
+      },
+      {
+        "text":"The equipment is all referred to and their use is explained thoroughly.",
+        "value":0
+      },
+      {
+        "text":"The listing provides a good flow and the explanation is clear and concise.",
+        "value":0.6705
+      },
+      {
+        "text":"The prompt is certainly addressed very adequately and explained thoroughly.",
+        "value":0.34
+      }
+    ],
+    [
+      {
+        "text":"This procedure would yield a solution of 2.00 x-4M with a precision of 1% or less because there are only three serial dilutions. &nbsp;Initially there is a .34% error from the inital mass of NaCl. &nbsp;Then for each serial dilution, there is an additional .28% added to the error. &nbsp;To get the final concentration, there would be two&nbsp;serial dilutions and a final inherent error of .90%. &nbsp;",
+        "value":-0.8875
+      },
+      {
+        "text":"In this procedure, the author only refers to serial dilutions, an analytical balance, a 5ml pipet, and a 50ml flask. &nbsp;All of these are part of the standard quantitative equipment and procedures found in the lab. &nbsp;",
+        "value":0
+      },
+      {
+        "text":"The transition words and phrases used improve the flow of ideas and concepts in this essay.&nbsp;There is a clear order in which the steps must be executed so that the final goal can be achieved.&nbsp;",
+        "value":0.6705
+      },
+      {
+        "text":"This would be rated an 8 because it goes through the though processes behind creating a 2.00 x-4M solution very clearly. &nbsp;The second reference to an alternative starting mass does make the&nbsp;essay lose some focus from the main procedure.&nbsp;",
+        "value":0.3555
+      }
+    ],
+    [
+      {
+        "text":"The procedure is correct in making the correct solution.&nbsp;",
+        "value":0
+      },
+      {
+        "text":"The essay describes a procedure using standard quantitative equipment. The person shows a clear understanding of when to pipet whichever solution to different 50 mL beakers.&nbsp;",
+        "value":0.5994
+      },
+      {
+        "text":"Ideas are transitioned very nicely. The person even gave an explanation on why he or she used that procedure and gave another procedure that would be less effective and described why his or her procedure is better.",
+        "value":1.1842000000000001
+      },
+      {
+        "text":"Great Procedure, good transitions and it had all the points (good topic sentence and concluding sentences)",
+        "value":0.8074
+      }
+    ],
+    [
+      {
+        "text":"Error for dissolving solid = 0.04mL/50.00mLError for serial dilution = 0.01g/5.00g+0.04mL/50.00mLTotal error = (0.0002/0.0584+0.04/50.00+(0.01/5.00+0.04/50.00)*2)*0%=0.98%&lt;1%",
+        "value":-0.5859
+      },
+      {
+        "text":"No specific step of using volumetric equipment is mentioned. Precisions are also missing.",
+        "value":-0.592
+      },
+      {
+        "text":"The essay includes 'because', 'After', 'what's more', etc.",
+        "value":0
+      },
+      {
+        "text":"The method itself is feasible and the error is within tolerance. However&nbsp;procedure using standard quantitative equipment is missing.",
+        "value":-0.424
+      }
+    ],
+    [
+      {
+        "text":"The passage has an introduction paragraph so it has a topic sentence. The essay uses equipment available and made an solution with a less than 1% inherent error.",
+        "value":-0.025499999999999995
+      },
+      {
+        "text":"The essay used a serial dilution that its inherent error is less than 1%. The essay did not use more than 0.0584g of NaCl so it is efficient. The essay descirbes a procedure using standard quantitative equipment.",
+        "value":0.06840000000000002
+      },
+      {
+        "text":"The essay does not have mechanical errors in spelling but it has a mistake in the calculation of inherent errors. The passage did use transition words such as \"first\",\"then\",\"after\"",
+        "value":-0.0072
+      },
+      {
+        "text":"The essay does not contain a concluding sentence. The essay is overall good. Though it had a mistake in calculting errors.",
+        "value":-0.2027
+      }
+    ],
+    [
+      {
+        "text":"students first sentences states what they will be addressing in the paragraph. Student is able to calculate the amount of concenration needed for a precision of 1% or less.",
+        "value":0.0516
+      },
+      {
+        "text":"Student is able to name equipment such as beakers and flask in order to be more descriptive in procedures. Student was able to calculate inherent percent order to ensure it will be 1% or less.",
+        "value":0.3818
+      },
+      {
+        "text":"Student provided words such as \"next step\" and \"same step\" to indicate what step was next in the procedures.",
+        "value":0
+      },
+      {
+        "text":"Student was able to write out all calcuations which backed up their procedures and claim that it will take two dillutions to attain concentration.",
+        "value":0.0258
+      }
+    ],
+    [
+      {
+        "text":"This method diluted the solution twice and the mass consideration is reasonable while taking th esubtance. therefore it will result the presicion of 1% of less",
+        "value":0.3182
+      },
+      {
+        "text":"IT is clearly stated in the essay a procedure using standard quantitative equipment is used.",
+        "value":0.4019
+      },
+      {
+        "text":"the logic is clear that idea is coherent",
+        "value":0.3818
+      },
+      {
+        "text":"the only eorror this method has is to take 0.5944g of Nacl, which is more than nessasary. the other procedures&nbsp;have some solid logic",
+        "value":0.1531
+      }
+    ],
+    [
+      {
+        "text":"He or she uses 0.5844g NaCl to prepare the solution with serial dilution.",
+        "value":0.3182
+      },
+      {
+        "text":"He or she uses volumetric flasks, pipets, etc.",
+        "value":0
+      },
+      {
+        "text":"The transition words are well used, such as therefore, which means, etc.",
+        "value":0.2732
+      },
+      {
+        "text":"It's almost perfect. The procedure and calculation is correct.",
+        "value":0.5279
+      }
+    ],
+    [
+      {
+        "text":"Overall from this procedure, obtaining all the percent errors and compounding them, results in an error percent of 0.857%, well within the confines of the requirements. &nbsp;I think it is a great idea to measure more out on the scale, but it is quite unecessary since the more dilutions are needed to ensure reaching the target endpoint, resulting in much more unecessary dilutions that may make the error blow out of&nbsp;proportions for another example, not this case specifically.&nbsp;",
+        "value":0.09860000000000002
+      },
+      {
+        "text":"Yes, this procedure is perfect in terms of using standard equipment and procedures to dilute the solution. &nbsp;The usage of only the scale, a 5.00mL pipet, and a 50.00mL flask is proper and ideal for this specific setup and target endpoint of dilution. &nbsp;",
+        "value":1.3538
+      },
+      {
+        "text":"The usage of words such as firstly, then, and now motivate the procedure and process forward, helping the reader understand the essay to clarity and ensure that it all makes sense, logically. &nbsp;What could be cleared up could be the \"perform the same process twice\" since it is quite confusing as to which part of that I would logically repeat twice. &nbsp;Other than that, it is stellar.",
+        "value":0.6436
+      },
+      {
+        "text":"I think this person deserves a 9 because they understood the full confines of this experiment and the usage of the instrumentation. &nbsp;Additionally, the error is not grossly out of&nbsp;proportions considering the amount of dilutions performed, which is a plus. &nbsp;The uses of transition phrases are great and motivate the essay forward well. &nbsp;The only reason it is not a  essay is that the mass of the measured substance could have easily been less since it was not necessary to have all that mass.",
+        "value":0.9137
+      }
+    ],
+    [
+      {
+        "text":"The suggested procedure uses the balance, the pipet and the flask correctly, with acceptable recording of precisions. The calculations are correct, 0.5844g of NaCl with 50.00mL water added will give us 0.2M of solution. When we take 5.00mL of that solution and dilute it ten times (with the 50.00mL flask), we will get 0.02M NaCl solution. If we repeat this two more times, the solution will be diluted 0 more times, giving us our desired concentration of 2*^-4 M. The precision calculation is also correct and within 1% limit, even though the text did not explicitly describe his/her precision calculations.&nbsp;",
+        "value":1.9401
+      },
+      {
+        "text":"The paragraph describes the usage of a balance with precision to 0.1 mg, a 50 mL volumetric flask and a 5 mL pipet, though the author did not explicitly state the precision of the flask and the pipet. These equipments, however, are in fact standard and quantitative, therefore I say&nbsp;\"yes\" to this question.&nbsp;",
+        "value":0
+      },
+      {
+        "text":"I can see words like \"then\", \"continue\" and \"also\" throughout the text, such as at the beginning of the second sentence, at the beginning of the third sentence, etc. The text is written logically with easy-to-understand logic, the author explained his reasoning behind&nbsp;obtaining&nbsp;a value of 0.5844g NaCl very clearly.",
+        "value":1.1357
+      },
+      {
+        "text":"The reason I think this text is 3 points away from being a / is because of three reasons. First, there is no descriptive topic sentence. Second, the author&nbsp;suggested&nbsp;using&nbsp;more than 0.0584 g of NaCl, which is more reagent than necessary to achieve the necessary precision. Third, there is no concluding sentence.&nbsp;",
+        "value":-0.5223
+      }
+    ],
+    [
+      {
+        "text":"This person specifically does explain how to use the equipment properly to transfer the solutions from one container to the next. They do so with precision to reduce the error.",
+        "value":-0.22399999999999998
+      },
+      {
+        "text":"The essay says to use standard quantitative equipment such as the volumetric flask and the pipet.",
+        "value":0
+      },
+      {
+        "text":"The essay simply from one sentence to the next without the use of transition words.",
+        "value":0.0772
+      },
+      {
+        "text":"The overall essay is pretty strong. It is extremely minute with explaining how to dilute the solutions. It throughy explains how to the error less than 1%. Although, it does lack transition words which make the sentences somewhat as a list rather than flow well",
+        "value":0.5339
+      }
+    ],
+    [
+      {
+        "text":"By using 0.5844 g of NaCl, more dilutions are needed so the inherent error is more than 1%",
+        "value":-0.4522
+      },
+      {
+        "text":"The error will be more than 1% but the standard serial dilution procedure is used.",
+        "value":-0.2144
+      },
+      {
+        "text":"The transition words \"Then\" and \"Also\" are used multiple times in the essay, giving it more logical flow.",
+        "value":0.34
+      },
+      {
+        "text":"The procedure is feasible, but the inherent error was above 1% so the precision of the equipment being used was neglected. Introductive and summary sentences were not included so the purpose of the essay is unknown at first.",
+        "value":-0.7946
+      }
+    ],
+    [
+      {
+        "text":"0.0005844 gram NaCl will&nbsp;cause an 34.2% inherent error.",
+        "value":-0.4019
+      },
+      {
+        "text":"I cannot find words like&nbsp;'50-ml volumetric flask' or '5-ml volumetric pipet'.And he even used a beaker.",
+        "value":0
+      },
+      {
+        "text":"I can find his 'mid flow-chart' although it is totally wrong...",
+        "value":0
+      },
+      {
+        "text":"The train of thoughts is definitely wrong, he cannot make the request solution in this way!",
+        "value":0.2942
+      }
+    ],
+    [
+      {
+        "text":"The essay calls for 0.0005844g of NaCl to be measured out which is not possible on an analytical balance. Thus, the procedure is not feasible.",
+        "value":0
+      },
+      {
+        "text":"The essay does refer to a procedure using standard quantitiative equipment in its usage of 50mL volumetric flasks, an analytical balance, and mL volumetric pipet.",
+        "value":0
+      },
+      {
+        "text":"The essay has a logical order and is very easy to read and follow.",
+        "value":0.4927
+      },
+      {
+        "text":"Although the essay's initial calculation of needing 0.0005844g of NaCl to obtain a NaCl aqueous solution with a concentration of 2.00x^-4M is correct, the whole procedure on how to obtain it is not feasible. One cannot measure out 0.0005844g of NaCl on an analytical balance in this lab. The essay also fails to include any serial dilutions, which is an important step in this procedure.",
+        "value":0.06819999999999998
+      }
+    ],
+    [
+      {
+        "text":"the starting amount of NaCl is too small to accurately measure out that amount in an analytical balance",
+        "value":0
+      },
+      {
+        "text":"the clear indication for the need of a ml volumetric pipet however the instructions ask for a 5ml pipet and a 50ml flask",
+        "value":0.3818
+      },
+      {
+        "text":"lack of transition words and cohesiveness and flow within the paragraphs",
+        "value":-0.3182
+      },
+      {
+        "text":"clear lack of serial dillutions, lack of proper equipment as stated in the instructions, and lack of a cohesive essay",
+        "value":-0.5106
+      }
+    ],
+    [
+      {
+        "text":"Did it correctly.",
+        "value":0
+      },
+      {
+        "text":"The author of this text explains his/her procedure very well, making it easy to understand.",
+        "value":0.6478
+      },
+      {
+        "text":"Words like \"Subsequently\", \"lastly\", and \"after rinsing\" give a very logical flow to the text and makes it easy to stay with the text.",
+        "value":0.6597
+      },
+      {
+        "text":"He/she met all the criteria and made their work very concise, which was nice. They also included a lot of the transition words making it easier to follow the procedure and listed out the steps in a manner making it easy to understand.",
+        "value":1.1122999999999998
+      }
+    ],
+    [
+      {
+        "text":"The suggested procedure uses 0.05844g of NaCl and 3 serial dilutions, achieving the correct concentration with the precision required.",
+        "value":0
+      },
+      {
+        "text":"The essay mentioned the proper use of the volumetric flask (fill to two thirds, invert and fill flask before inverting again).",
+        "value":0
+      },
+      {
+        "text":"Words such as 'subsequently', 'afterwards' and 'next' are used.",
+        "value":0
+      },
+      {
+        "text":"Calculation of errors was not done to show the inherent error in the concentration of the resulting solution.",
+        "value":-0.4215
+      }
+    ],
+    [
+      {
+        "text":"This procedure checks out as far as obtaining the final answer.",
+        "value":0
+      },
+      {
+        "text":"Author mentions the equipment used as well as concise procedure which includes acountability for error.",
+        "value":-0.1531
+      },
+      {
+        "text":"Uses of then are common. \"Afterwards\" \"lastly\"",
+        "value":0
+      },
+      {
+        "text":"Feasible procedure to obtain the final concentration. Takes into consideratoin the error and precision required to succesfully carry out prodecure.&nbsp;",
+        "value":-0.4019
+      }
+    ],
+    [
+      {
+        "text":"With the equipment given, this procedure is feasible. The precision would be 1% and the concentration would be correct.",
+        "value":0
+      },
+      {
+        "text":"The procedure uses standard qualitative equipment.",
+        "value":0
+      },
+      {
+        "text":"The essay has a logical flow of ideas.",
+        "value":0
+      },
+      {
+        "text":"The procedure was well-written, but too much reagent was used. There was no introductory sentence or concluding sentence.",
+        "value":-0.1531
+      }
+    ],
+    [
+      {
+        "text":"By using % inherent error calculation, this person produces the solution with an error less than 1%",
+        "value":-0.4767
+      },
+      {
+        "text":"This essay includes standard quantitative equipment.",
+        "value":0
+      },
+      {
+        "text":"Transition of this essay is not bad; it does not disturb me reading.",
+        "value":0.6259
+      },
+      {
+        "text":"Although this essay does not have a topic sentence nor a concluding sentence, it has logical flow and&nbsp;describes the procedure using&nbsp;standard quantitative equipments. Also, this person included his logic to make the solution having error that is less than 1%.",
+        "value":-0.21660000000000001
+      }
+    ],
+    [
+      {
+        "text":"Although the 50 mL of solution is attainable, the concentration of 2 *^-4 M is not mentioned.",
+        "value":0.3182
+      },
+      {
+        "text":"The standard quantitative equipment mentioned include the volumetric flask, funnel, pipet, and beaker.",
+        "value":0.0258
+      },
+      {
+        "text":"There are not transition words to link the sequence of events.",
+        "value":0
+      },
+      {
+        "text":"The concentration of the solution is not mentioned in the text, there are no transitional statements, and the text lacks an introductory and concluding sentence.",
+        "value":0.1027
+      }
+    ],
+    [
+      {
+        "text":"the amount of NaCl is a feasible amount to be wieghed as well as follows the equipment restraints",
+        "value":0.2732
+      },
+      {
+        "text":"clearly says to use 50ml flasks and 5ml volumetric pipets",
+        "value":0.4019
+      },
+      {
+        "text":"there is a lack of transition words however it does form a cohesive essay",
+        "value":-0.3182
+      },
+      {
+        "text":"follows the paragraph format while also providing clear and feasible instructions to complete the dillution.&nbsp;",
+        "value":0.3818
+      }
+    ],
+    [
+      {
+        "text":"The topic sentence refers to the objective: to prepare a solution of NaCl with 2.00x^-4 M concentration. The procedure is possible with the available equipment, including analytical balances, available volumetric flasks, DI water, volumetric pipets, and funnels. The procedure should result in the concentraion necessary, should no systematic errors occur.",
+        "value":-0.07290000000000002
+      },
+      {
+        "text":"The procedure called for serial dilutions. However, it also called for 5.8443g of NaCl, 0x more than #4 asks for. All equipment that this procedure calls for (save for the funnel and water) is standard quantitave equipment.",
+        "value":0.0258
+      },
+      {
+        "text":"Grammar seems fine to me. Transition words are nonexistent. The text follows a \"do this, now do this\" flow.",
+        "value":0.2023
+      },
+      {
+        "text":"There was no conclusion. The text seemed fine for the most part to me but the use of 5.8443g of NaCl lowers the score in my opinion.",
+        "value":-0.386
+      }
+    ],
+    [
+      {
+        "text":"1. This essay doesn't contain topic sentence. It just starts with the procedure of making primary solution.This writer didn't list what kind of equipment that he or she is restricted to use, but this procedure only requires the restricted item.&nbsp;Yet, at the first sentence of the third paragraph, the writer clarifies that he can get that molarity of 50ml NaCl solution.&nbsp;",
+        "value":-0.3972
+      },
+      {
+        "text":"In this essay, this writer roughly mentions where the errors come from; however, he doesn't clarify how much error each equipements make. Also, this writer mentions that \"precision of 1% or less is achieved\" but he doesnt clarify where he or she gets that number from.&nbsp;",
+        "value":-0.5095000000000001
+      },
+      {
+        "text":"This writer doesn't use much transition words. This is because the writer wrote the most of sentences in the command form that it doesn't require much transition word. However, it could've been better if the writer used good transition words. Also, he made grammar errors.",
+        "value":0.48290000000000005
+      },
+      {
+        "text":"First this essay doesn't include topic sentence, and just start with the procedure which is not great start. Also, he doesn't clarify the calculation for inherent error, and he vaguely mentions that it ends with 1% or less precision which is not what the readers expect. Also this writer doesn't use much transition words which makes it harder to read and understand. Lastly, the writer had some grammar error which made it harder to read",
+        "value":-1.3485999999999998
+      }
+    ],
+    [
+      {
+        "text":"The volume and concentration of the final solution would be within the accepted ranges. However, the inherent error would be higher than 1%.",
+        "value":0.12479999999999997
+      },
+      {
+        "text":"The procedure only calls for the usage of the provided standard quantitative equipment.",
+        "value":0
+      },
+      {
+        "text":"The structure&nbsp;of the procedure is not as clear and choice of phrases leads to slight confusion of the reader.",
+        "value":-0.5242
+      },
+      {
+        "text":"Although the wording is hard to follow at times, the procedure provides a feasible method of preparing our 50 mL solution of 2.00E-4 M NaCl concentration, using the provided equipment. However, the inherent error will be higher than 1%.",
+        "value":-0.17559999999999998
+      }
+    ],
+    [
+      {
+        "text":"The procedure uses an analytical balance, a 5 mL pipet, and a 50 mL volumetric flask. Measuring 0.5844g using an analytical balance is feasible, and the author's precision error is 1% or less using these pieces of equipment.",
+        "value":-0.4019
+      },
+      {
+        "text":"The procedure uses an analytical balance, a 5 mL pipet, and a 50 mL volumetric flask.&nbsp;",
+        "value":0
+      },
+      {
+        "text":"The essay flows smoothly as the author uses transitional words to structure&nbsp;the essay.",
+        "value":0
+      },
+      {
+        "text":"The essay is&nbsp;coherent, concise, and well-written, but uses more than 0.0584g of solute to get the desired concentration.&nbsp;",
+        "value":0.3919
+      }
+    ],
+    [
+      {
+        "text":"The first sentence explains extactly what the reader will be instructed to do by the essay. The procedure uses a pipet, and volumetric flask.",
+        "value":0.0772
+      },
+      {
+        "text":"The procedure uses serial dilutions to creat a 50 mL solution with a concentration of 2.00 x-4M. The procedure uses 0.5844 g. of sodium chloride. The procedure uses standard quantitative procedures, but does not specify what standard quantitative equipment to use.",
+        "value":0.3182
+      },
+      {
+        "text":"The only error I find is pipet mispelled as pipete.Words like \"first,\" \"after,\" \"then,\"and \"finally\" to give sequence to the steps of the procedure. The transition words vreate a logical flow of ideas through the procedure's steps.",
+        "value":-0.0516
+      },
+      {
+        "text":"The final sentence makes the procedure appear complete. The entire essay is clear on what to do with minimal errors. The best I have seen so far.",
+        "value":0.7657
+      }
+    ],
+    [
+      {
+        "text":"Error for weighing = 0.0002g/0.0584gError for dissolving solid into solution 1 = 0.04mL/50.00mLError for serial dilution (solutions 2&amp;3) = 0.01g/5.00g+0.04mL/50.00mLTotal error = (0.0002/0.0584+0.04/50.00+(0.01/5.00+0.04/50.00)*2)*0%=0.98%&lt;1%",
+        "value":-0.3612
+      },
+      {
+        "text":"The essay does not include specific procedure for quantitative transferring or diluting. The precisions of the equipment are not mentioned, either.",
+        "value":0
+      },
+      {
+        "text":"The essay includes the use of 'this', 'since', 'once', and 'in order to'",
+        "value":0
+      },
+      {
+        "text":"Although there is a lack of topic sentense and conclusions, the essay does introduce a feasible way to prepare a solution meeting the given standards.",
+        "value":0
+      }
+    ],
+    [
+      {
+        "text":"The suggested procedures use the exact amount of solute that gives the concentration required with less than 1% error.",
+        "value":-0.3477
+      },
+      {
+        "text":"The essay comments on the use of volumetric pipets and flasks.",
+        "value":0
+      },
+      {
+        "text":"The essay uses words like \"in order\" and \"since\" to establish a logical flow of idea.",
+        "value":0.3612
+      },
+      {
+        "text":"The essay fails to discuss the error % limitation. But in discussing the procedure of serial dilution, the logic is clear. The essay does give a feasible method of preparing a solution with required concentration with less than 1% error. Therefore my score for the essay will be 6.",
+        "value":-0.4251000000000001
+      }
+    ],
+    [
+      {
+        "text":"It is the correct procedure, however, the precision is neglected in this essay.",
+        "value":-0.5267
+      },
+      {
+        "text":"The procedure is logical and sufficient for this essay.",
+        "value":0
+      },
+      {
+        "text":"Essay is easily understandable.",
+        "value":0.34
+      },
+      {
+        "text":"The assignment was to create a solution with a given concentration and precision. The procedure and resulting concentration were well explained, but the precision was left unexplained.",
+        "value":0.6673
+      }
+    ],
+    [
+      {
+        "text":"Using error analysis, the error of the final 50mL proposed in the text is 0.929%",
+        "value":-0.6597
+      },
+      {
+        "text":"The text refers to 0mL, 50mL volumetric flasks, and pipets which are standard quantative equipment.",
+        "value":0
+      },
+      {
+        "text":"The text often uses the words such as \"finally\" and \"take\" to get a coherent flow of ideas.",
+        "value":0
+      },
+      {
+        "text":"The text fullfills all of the requirements will keeping its coherence. The writer displays a use of transition works and effectively concludes the work.",
+        "value":0.4404
+      }
+    ],
+    [
+      {
+        "text":"Yes, in fact, student provides the exact inherent error, which was 0.929%.&nbsp;",
+        "value":0
+      },
+      {
+        "text":"Yes, the student makes mention of the equipment used as well as provides the quantitative reasoning behind their use.&nbsp;",
+        "value":0.5859
+      },
+      {
+        "text":"Yes, the student is detailed in their response and also provides transitions that produced coherence and flow.&nbsp;",
+        "value":0.4019
+      },
+      {
+        "text":"The student was very detailed and transparent with the processes they applied to attain desired results.&nbsp;",
+        "value":0.2732
+      }
+    ],
+    [
+      {
+        "text":"The essay&nbsp;fails to recognize that only 50-mL volumetric flasks and 5-mL pipets can be used.",
+        "value":0
+      },
+      {
+        "text":"The essay mentions the use of 0-mL and 50-mL volumetric flasks and 5-mL pipet.",
+        "value":0
+      },
+      {
+        "text":"The essay uses transition words like \"then\" and \"finally\".",
+        "value":0.3612
+      },
+      {
+        "text":"The essay does not mee the requirement set by the prompt and the procedures therefore is not feasible. However, the essay does recognize the use of serial dilution procedures and demonstrates understanding of the concepts. Therefore, my score for this essay will be 4.",
+        "value":0
+      }
+    ],
+    [
+      {
+        "text":"The equipment available would be used properly and the precision was calculated correctly.",
+        "value":0
+      },
+      {
+        "text":"The text refers to the 50 ml flask and the 5 ml pipet and their use.",
+        "value":0
+      },
+      {
+        "text":"The text flows well but there is some jumping around in the order of events.",
+        "value":0.1406
+      },
+      {
+        "text":"The text is decently written. &nbsp;However, I could not follow the use of the M1V1=M2V2 formula. &nbsp;There may be an error there. &nbsp;Also, the amount of mass used exceeds the necessary amount.",
+        "value":-0.4019
+      }
+    ],
+    [
+      {
+        "text":"The suggested procedure use digital balance to weigh 0.584g NaCl and use 5 ml volumetric pipet and 50 ml volumetric flask to dilute twice in order to get the desired solution. The result solution&nbsp;is 2.00x^(-4)M with an error of .982 percent which is demonstrated in the text.",
+        "value":0.12479999999999997
+      },
+      {
+        "text":"The required equipment for the procedure suggested by the text includes digital balance, 50ml volumetric flask, and 5ml volumetric&nbsp;pipette.&nbsp; All of them are standard quantitative equipment available in the lab.",
+        "value":0
+      },
+      {
+        "text":"There are transition words like \"then\", \"after\", \"until\" used in the text to give a consistant flow of ideas.",
+        "value":0.3612
+      },
+      {
+        "text":"The procedure suggested in the text includes the correct steps for&nbsp;serieal dilution&nbsp;and verify the inherent error of the dilution falls in&nbsp;the accepted range. However, it requires more than 0.0584 g of NaCl which is more than necessary amount of reagent&nbsp;to achieve the necessary precision. And there is no summary sentence at the end of the text which is not very clear for the reader to understand the procedure.",
+        "value":-0.6638000000000001
+      }
+    ],
+    [
+      {
+        "text":"The text mentions that they calculated the molarity.&nbsp;",
+        "value":0
+      },
+      {
+        "text":"The text does mention that the use of volumetric flasks and pipets are needed for a more accurate solution.&nbsp;",
+        "value":0
+      },
+      {
+        "text":"The text seems to rush and does not flow coherently. It lacks transition words.&nbsp;",
+        "value":0
+      },
+      {
+        "text":"The text does get to the point of the experiment, however, it needs better organization.&nbsp;",
+        "value":0.4404
+      }
+    ],
+    [
+      {
+        "text":"The procedures presented will result in a 50mL solution with a concentration of 2.00 x-4M and a error of less than 1%.&nbsp;",
+        "value":-0.1027
+      },
+      {
+        "text":"The essay describes a procedure that requres standard quantitative equiptment rather than standard quantitative procedures.&nbsp;",
+        "value":0
+      },
+      {
+        "text":"The essay has a logically formatted and has a smooth flow of ideas throughout.&nbsp;",
+        "value":0
+      },
+      {
+        "text":"The essay describes a procedure that will result in the correct concentration of NaCl in solution with an acceptable amount of error. It also has a smooth flow of ideas, and has a proper explanation of the ideas. The only criticism is the lack of a closing sentence at the end.&nbsp;",
+        "value":-0.37310000000000004
+      }
+    ],
+    [
+      {
+        "text":"The procedure descibes two dilutions so the inherent error is less than 1% and the initial weight of NaCl accounts for the precision in the balance.",
+        "value":-0.4522
+      },
+      {
+        "text":"Standard quantitative equipment is used and the procedure is that of a short serial dilution.",
+        "value":0
+      },
+      {
+        "text":"This is repeated multiple times throughout the essay, giving it a more logical flow.",
+        "value":0.34
+      },
+      {
+        "text":"There is no summary sentence but the diltuion described would work and give an inherent error of less than 1%.",
+        "value":-0.6124
+      }
+    ],
+    [
+      {
+        "text":"The starting weight of the sodium chloride doesn't work to create the solution.&nbsp;",
+        "value":-0.2057
+      },
+      {
+        "text":"Although the procedure itself is wrong, the procedure that the author gives is pretty well described and makes it easy for the reader to follow.",
+        "value":0.6249
+      },
+      {
+        "text":"There are no transition phrases like \"next\", \"finally\", etc. Words like these would have helped the reader to follow the logic of the paragraph.",
+        "value":0.4384
+      },
+      {
+        "text":"The text doesn't have transition words and the procedure isn't correct. This makes me dubious that the writer really knows how to create solutions correctly. It also fails to have a concluding sentence.",
+        "value":-0.28400000000000003
+      }
+    ],
+    [
+      {
+        "text":"In this procedure we are required to preform serial dillutions which are more feasible than masuring out the solid sample and directly dissolving. It also addresses that the fact that the solution with concentration of 2.00*^-3M can not be the primary standard solution and gives a solution to this issue.&nbsp;",
+        "value":0.8627
+      },
+      {
+        "text":"The essay addresses equipment to use as well as includes it in procedure as well as error analysis.",
+        "value":0.128
+      },
+      {
+        "text":"The author uses phrases such as however or in summary to ensure facility of comprehension. The essay flows logically and comprehensively.&nbsp;&nbsp;",
+        "value":0.3818
+      },
+      {
+        "text":"The essay addressed all potential issues in the procedure while answering every detail asked for in the prompt. The essay is easy to understand and also flows well. The only issues are the lact on introductory and summary sentences.&nbsp;",
+        "value":0.6124
+      }
+    ],
+    [
+      {
+        "text":"The use of flask, analytical balance and pipette are standard in the lab setting. The error is less than one percent because a serial dilution is performed accurately and precisely.",
+        "value":-0.4019
+      },
+      {
+        "text":"The procedure uses standard quantitative equipment to create a more concentrated solution and then using the standard procedure of serial dilution to create a dilute solution with an error less than 1%.",
+        "value":0.6865
+      },
+      {
+        "text":"The essay is clarified very well by the repetition of words like \"concentration\" and \"dilution process\", which give the essay structure.",
+        "value":0.5984
+      },
+      {
+        "text":"This procedure can provide a solution of NaCl with less than 1% error and involves very few steps. It is clear and concise, but uses more grams of NaCl than necessary.",
+        "value":0.1671
+      }
+    ],
+    [
+      {
+        "text":"If there was 23.376 grams of NaCl, it cannot be made into an initial solution of 2.00 x ^-2M solution by using only a 50ml flask.&nbsp;But assuming that the above statement was possible the percent error is within the 1 percent range.&nbsp;",
+        "value":0.2263
+      },
+      {
+        "text":"This essay does not describe a procedure that uses standard laboratory equipment available in this lab.&nbsp;It uses a flask whose size is much larger than the allotted 50ml.&nbsp;The procedure also uses more NaCl solid than the minimum needed.",
+        "value":0.2212
+      },
+      {
+        "text":"I feel as if the the first two sentences in the second paragraph does not flow very well with one another.&nbsp;Initially, it was unclear of what the author was trying to tell the reader.&nbsp;Also the flow of ideas and explanation was not very clear in this essay.&nbsp;",
+        "value":-0.6407
+      },
+      {
+        "text":"This essay was not well written, the wording feels very clunky and unable to send a clear message.&nbsp;I would give this essay a 4 because of its subpar organization and use of equipment that is not available to the reader.&nbsp;Another reason that this essay scored below five is that it did not meet many of the requirements that the procedure demanded such as a minimum usage of NaCl and the type of equipment that is available for use.&nbsp;",
+        "value":-0.0294
+      }
+    ],
+    [
+      {
+        "text":"The final concentraion is 2.00x-4M and the error is 0.95%, smaller than 1%.",
+        "value":-0.4019
+      },
+      {
+        "text":"He talked about using of 5mL pipets and transfering aliquot of water.",
+        "value":0
+      },
+      {
+        "text":"He uses \"additionally\" and \"in the end\".",
+        "value":0
+      },
+      {
+        "text":"The focus of the essay is a little bit off as it includes uncessary reflections on sources of error and the discussion on the precodure is too little.",
+        "value":-0.4019
+      }
+    ],
+    [
+      {
+        "text":"the correct procedure was used and attained the correct result, they just misplaced the decimal with the original mass",
+        "value":0.3182
+      },
+      {
+        "text":"yes, it uses the necessary pitette, flask and scale",
+        "value":0.4019
+      },
+      {
+        "text":"yes its an easy read that makes sense",
+        "value":0.6808
+      },
+      {
+        "text":"there is an uncessary ending sentence that discusses human error when they preformed the lab",
+        "value":-0.34
+      }
+    ],
+    [
+      {
+        "text":"This is a feasible procedure.",
+        "value":0
+      },
+      {
+        "text":"This procedure does not mention the need to use volumetric equipment.",
+        "value":0
+      },
+      {
+        "text":"The flow of ideas is logical.",
+        "value":0
+      },
+      {
+        "text":"This procedure does not express the need for volumetric equipment and uses too much reagent.",
+        "value":0
+      }
+    ],
+    [
+      {
+        "text":"There is no topic sentence in this article. There is no graduated cylindar available so the author can not use that for serial dilution. Also the inherent error of graduated cylindar is so high that it is seldomly used for serial dilution.",
+        "value":-0.9241999999999999
+      },
+      {
+        "text":"The essay didn't use a serial dilution and it has an inherent error that is larger than 1%. Th graduated cylindar and beaker are not considered precise equipment.",
+        "value":-0.4019
+      },
+      {
+        "text":"The essay contains a typo \"tehn\". The essay contains transition words like \"after that\" and \"then\".",
+        "value":0.3612
+      },
+      {
+        "text":"The essay didn't use a serial dilution to prepare the solution and got a solution that has inherent error more than 1%.",
+        "value":0.2263
+      }
+    ],
+    [
+      {
+        "text":"Used 5.844e-3 gram of NaCl, which will cause 3.4% inherent error.&nbsp;&nbsp;",
+        "value":0
+      },
+      {
+        "text":"Seem that he/she didn't read the request carefully, even used a ' ml pipette' which not provided.",
+        "value":0.128
+      },
+      {
+        "text":"I can find connected conjunction which make this text kind of coherent.",
+        "value":0
+      },
+      {
+        "text":"Method error -4No summary sentense -1Spell error (cylander, vaule, tehn, transfered, etc) -1",
+        "value":-0.6597
+      }
+    ],
+    [
+      {
+        "text":"Yes he directly calculates the inherent error in the essay \"So we can calculate the inherent error (0.0002/0.5844+(0.01/5)*3+(0.04/50)*4)*0%=0.95%&lt;1%.\" which is less than 1%. However, he doesn't clearly show the calculation of the dilution. He only mentions the steps of the dilution but doesn't clarify how he got those numbers.",
+        "value":-0.7108
+      },
+      {
+        "text":"Yes in this esaay, the writer only uses designated tools in the prompt. In the sentence \"Transfer the solution 1 to a clean dry volumetric glassware, lable it as solution 1.&nbsp;Use 5.00-mL volumetric pipet to transfer&nbsp;5.00-ml&nbsp;solution 1 to a new 50.00-mL volumetric flask, dilute to the mark with distilled water. We made 50.00-mL 0.02M NaCl solution.\" the writer clearly mentions the designated tools as the equipments that he or she uses to get the solution",
+        "value":1.7793
+      },
+      {
+        "text":"The writer doesn't use much trasition words in his or her essay. this person writes most of the sentences in the command sentences. After using command sentences, the writer doesn't use transition words to connect the thoughts.",
+        "value":0.2845
+      },
+      {
+        "text":"This is because even though this essay includes the topic sentence, it doesn't have clear summary sentence. Also, even though it shows the calculation for inherent error, it doesn't show the calculation for the concentrations during dilution. Also, this essay has some punctuation error such as using comma instead of period so that the sentence ended up run-on sentences. In addition this essay contains useless sentences such as \"That satisfy the request!\". Therefore, this essay shouldn't go higher than 4 points.&nbsp;",
+        "value":-0.6100999999999999
+      }
+    ],
+    [
+      {
+        "text":"In this essay, the author clearly shows the calculation for the percent error.&nbsp;He got a value less than 1% by using equipment available in the the 20L laboratory.&nbsp;",
+        "value":0.6249
+      },
+      {
+        "text":"All the equipment and procedures used to create the diluted solution are within those that are provided for this procedure.&nbsp;",
+        "value":0.5267
+      },
+      {
+        "text":"There are clear explanations to the how the procedure should be executed in chronological order.&nbsp;The essay also allows the reader to grasp the idea of the essay through easy to read and flowing sentences.",
+        "value":0.6908
+      },
+      {
+        "text":"I would rate this essay a 7 because of the starting mass that the author decided to use and the way this essays was structured.&nbsp;The procedure detailed in this essay uses more than the minimum amount of NaCl needed for the procedure therefore looses some credibility.&nbsp;On the other hand, the essay receives some credibility through its precise instructions and explanation.&nbsp;",
+        "value":0.3818
+      }
+    ],
+    [
+      {
+        "text":"The process uses the correct equiptment, generates a final 50mL solution of 2x-4M, and uses at least 3 significant figures (thus producing a&nbsp;precision of 1% or less) on each measurement.",
+        "value":0.4767
+      },
+      {
+        "text":"The procedure specifies &nbsp;only a 5.00-mL volumetric pipet and a 50.00-mL volumetric flask can be used.",
+        "value":0
+      },
+      {
+        "text":"Words and phrases like \"first\" and \"now\" are used, which helps the process have a logical flow.",
+        "value":0.6249
+      },
+      {
+        "text":"While thesuggested procedure uses more than the necessay 0.0584 g of NaCl,&nbsp;the procedure is presented clearly. The text indicates that the author has a sophisticated understanding of serial dilution, but does include grammatical errors.",
+        "value":0.19959999999999997
+      }
+    ],
+    [
+      {
+        "text":"It is not possible to weigh 0.0005844 grams of NaCl on a balance that has a precision up to a tenth of a milligram",
+        "value":0
+      },
+      {
+        "text":"The procedure does give the standard procedure for a dilution using volumetric flasks and pipets",
+        "value":0
+      },
+      {
+        "text":"Some transition works like \"First\" are used as well as the repitition of the works \"To\" and \"Having\"",
+        "value":0.5574
+      },
+      {
+        "text":"The precision errors of the volumetric flasks and pipet are included in the procedure, but the procedure itself is not possible because the precision of the balance was not considered. Another less serious mistake is not including a summary sentence.",
+        "value":-0.5072
+      }
+    ],
+    [
+      {
+        "text":"The mass of NaCl that needs to be weighed is not stated in the procedure. Moreover, dilute 5 mL of 2.0M solution to 50 mL would not result in a 2.0&times;-4&nbsp;M solution. Last, a beaker is not allowed to be used.",
+        "value":0.5574
+      },
+      {
+        "text":"A beaker is not allowed to be used.&nbsp;",
+        "value":0
+      },
+      {
+        "text":"The essay contains words like \"next\", \"first\" and \"because\".",
+        "value":0.3612
+      },
+      {
+        "text":"Equipment not allowed are used. The procedure is not clear to the reader because the amount of the solid NaCl is not stated, and the procedure of obtaining a 2.0M solution is not stated. Also, the final solution will not be 2.0&times;-4&nbsp;M, and the calculation of inherent error is not shown here.",
+        "value":0.07909999999999999
+      }
+    ],
+    [
+      {
+        "text":"The suggested procedure is impossible with the equipment available as our analytical balances do not have a precision that could result in the accurate weighing of such a low amount of starting solute.",
+        "value":-0.2732
+      },
+      {
+        "text":"The essay does do well in explaining the necessity for standard quantitative techniques and equipment.",
+        "value":0.2732
+      },
+      {
+        "text":"The essay is constructed with a nice flow and coherence.",
+        "value":0.4215
+      },
+      {
+        "text":"Although the essay is constructed well, it does not describe the correct and practical procedure which involves serial dilution. It also lacks a concluding summary sentence.",
+        "value":0.3504
+      }
+    ],
+    [
+      {
+        "text":"This texts presents all the proper numbers and the proper equipment.&nbsp;",
+        "value":0
+      },
+      {
+        "text":"The text describes the use of all the proper equipment",
+        "value":0
+      },
+      {
+        "text":"It's good.",
+        "value":0.4404
+      },
+      {
+        "text":"Overall, it has all the necessary info. could use some more transitions",
+        "value":0
+      }
+    ],
+    [
+      {
+        "text":"The serial dilutions create .0002 mol/L solution with .9825% error",
+        "value":0.1779
+      },
+      {
+        "text":"The use of pipet, flasks, and a scale are mentioned.",
+        "value":0
+      },
+      {
+        "text":"The essay flows and is easily followed.",
+        "value":0.34
+      },
+      {
+        "text":"The essay was descriptive, but did not use formatting for the equations that was most ideal. The solution created was within the requirements and used the least amount of salt needed.&nbsp;",
+        "value":1.2324000000000002
+      }
+    ],
+    [
+      {
+        "text":"The procedure is feasible, accounts for theoretical value and real world problems.",
+        "value":-0.0772
+      },
+      {
+        "text":"It does refer to the procedure and its equipment.",
+        "value":0
+      },
+      {
+        "text":"Could control the flow a bit better to leave the reader less confused.",
+        "value":0.1761
+      },
+      {
+        "text":"It hit all the marks, but could be a bit more descriptive.",
+        "value":0
+      }
+    ],
+    [
+      {
+        "text":"Although the idea of serial dilution is correct, this procedure will not yield a 50-ml NaCl solution with exactly 2.00*-4M concentration. Also the inherent error of this procedure is not discussed in this text, and it is impossible for the reader to find out the actual inherent error because this passage&nbsp;starts off with an approximated weight of solute.",
+        "value":-0.34149999999999997
+      },
+      {
+        "text":"Only 5-ml pipet and 50-ml volumetric flask can be used. This essay follows this instruction.",
+        "value":0
+      },
+      {
+        "text":"After the topic sentence the essay starts with \"starting off\", giving a feeling of initiation. Then, \"next\" is used to divide the essay into two phases while connecting them together.",
+        "value":0.4939
+      },
+      {
+        "text":"This procedure in principle cannot be used to make the desired solution. Although the serial dilution part is correct, no calculation of inherent error is included in this text. The approximation nature makes it imposible to calculate the exact inherent error with an arbitrary weight of sample.",
+        "value":-0.4746000000000001
+      }
+    ],
+    [
+      {
+        "text":"the writer write what to prepare as the aim of the experiment. However, he forgets to mention about the inherent error as well as feasible equipment to prepare such concentration of solution&nbsp;",
+        "value":-0.1531
+      },
+      {
+        "text":"Writer mostly spend time in writing down the procedure of the experiment but he never quite talks about how to maintain the inherent error using serial of dilution.&nbsp;",
+        "value":-0.5499
+      },
+      {
+        "text":"There is no any sentence in describing how to maintain the inherent error. Writer never quite logically put it&nbsp;down&nbsp;with correct order but it is still not difficult to read.&nbsp;",
+        "value":-0.1624
+      },
+      {
+        "text":"The writer never talks about an inherent error which is part of the aim in the experiment. Ther is no conclusive sentence besides saying that the filling the remaining water will give desired concentration. The writer is also not being specific with what equipment to use in preparing the solution. Technically writer did not answer the question properly indicating little understand of the experiment's goal.&nbsp;",
+        "value":-0.03210000000000002
+      }
+    ],
+    [
+      {
+        "text":"It is clear the purpose and methods of the dilution.",
+        "value":0.3818
+      },
+      {
+        "text":"It wants to use 0.5g of NaCl and it's too large of amount.",
+        "value":0
+      },
+      {
+        "text":"Should avoid phrases like \"you take\", \"your primary solution\"",
+        "value":0.3818
+      },
+      {
+        "text":"The procedures are clear but the structure needs some work. And the error range is not mentioned. word \"around\" is used too much and the data is vague",
+        "value":-0.30229999999999996
+      }
+    ],
+    [
+      {
+        "text":"This person uses a&nbsp;weighing boat, a beaker, a pipet, and a volumetric flask. Considering % inherent error for each measuring equipment, it will give more than 1% error.",
+        "value":-0.6597
+      },
+      {
+        "text":"This person only states what equipments to use but he/she should have specifically identified each equipment using standard quantitative equipment.",
+        "value":0
+      },
+      {
+        "text":"This person uses transition words, and the&nbsp;use of words is not to repetitive.",
+        "value":0.1877
+      },
+      {
+        "text":"Although this person did have some critical errors such as not&nbsp;using the standard quantitative equipment to describe his/her procedure and not producing desired result, it has logical flow of procedure and understandable.",
+        "value":-0.672
+      }
+    ],
+    [
+      {
+        "text":"Writer talks about at the beginning of sentence with what is needed to prepare such concentration of the solution. It can be improved with just adding that this must be prepared while maintaining error below 1%.&nbsp;",
+        "value":0.7
+      },
+      {
+        "text":"Writer focus on making the procedure after talking about the equation to calculate the concentration of solution. Yet again, writer did not talk about the serial of dilution to maintain the % of error below 1% which is quite crucial in the experiment. Writer also use more than 0.0584g of NaCl to prepare the solution.&nbsp;",
+        "value":-0.0837
+      },
+      {
+        "text":"The essay has little significance grammar error to prevent from reading. The logic of the essay can be improved after showing why does the experiment of this number of dilution due to maintaining such amount of error. Then the writer can proceed with procedure while talking about reason behind using the apparatus.&nbsp;",
+        "value":0.06080000000000002
+      },
+      {
+        "text":"Average essay which writer know how to prepare the solution with numbers of dilution. Correct procedure but never talk about the way to maintain inherent error or the actual quantitative value to show. Writer shows strong understanding in executing the experiment but quite fail to talk about the mathematical part of the essay.&nbsp;",
+        "value":-0.41459999999999997
+      }
+    ],
+    [
+      {
+        "text":"His procedure is wrong.",
+        "value":-0.4767
+      },
+      {
+        "text":"The essay refers to the equopment, such as volumetric flasks, pipets, etc.",
+        "value":0
+      },
+      {
+        "text":"His or her transition words are well used, like hence, throughout the procedure, etc.",
+        "value":0.5574
+      },
+      {
+        "text":"This eassay describes the procedure to do the eperiment very detailedly, but his method is strange and wrong. He first used a random number and then revised the number to be the final correct mass of NaCl.",
+        "value":-0.5938
+      }
+    ],
+    [
+      {
+        "text":"The calculations are shown to form a precision of 1 % and a concentration of 2.11 * ^-4, which may be incorrect in number due to error in calculation.",
+        "value":-0.34
+      },
+      {
+        "text":"The only standard equipment mentioned are the volumetric flask, the pipet, and the Mettler AE160 Balance.",
+        "value":0
+      },
+      {
+        "text":"The transitional words of thirdly, therefore, and hence, are used to demonstrate a cause and effect relationship. However, they do not demonstrate a flow of a sequence of events.",
+        "value":0
+      },
+      {
+        "text":"This text was mainly composed around the computational area and did not fully emphasize the experimental sequence of events needed.",
+        "value":0
+      }
+    ],
+    [
+      {
+        "text":"The suggested procedure is possible with the equipment that is assigned for the experiment, as it will help to carry out accurate serial dilutions. As shown above, due to the equipment having small individual inherent errors, the total error of the procedure is calculated to be less than 1%.&nbsp;",
+        "value":-0.22300000000000003
+      },
+      {
+        "text":"The essay uses the quantitative equipment that has been assigned for the experiment, i.e.: the 50ml volumetric flask, the 5ml volumetric pipette and the weighing balance with an inherent error of +/- 0.2mg. This equipment is used to make the serial dilutions of the initial NaCl solution which is a standard quantitative procedure, therefore the essay uses the assigned methods to prepare the solution.",
+        "value":0.15550000000000003
+      },
+      {
+        "text":"The transition words and phrases used help the essay flow and show the step-by-step process of the preparation of the dilute solutions. The repetition of words is used to give the reasons behind the procedure and helps the essay make sense. &nbsp;",
+        "value":0.9084999999999999
+      },
+      {
+        "text":"This text is clear and concise, and explains how to carry out serial dilutions in order to achieve the desired concentration of the NaCl solution, i.e.: 2x^-4M. The only problems are the lack of summary sentence to finish the essay, and the fact that the mass is stated in milligrams and not grams, which is the SI Unit. In addition, the mass used is not the least that could be used for this experiment, so the resource utilization is not maximum, hence this essay gets 9/.&nbsp;",
+        "value":0.14650000000000007
+      }
+    ],
+    [
+      {
+        "text":"The topic sentence refers to the goal of the text prompt and introduces the reset of the text. The procedure is possible and should result in 50mL of NaCl solution with a concentratioin of 2.00 x ^-4 M.",
+        "value":0.3954
+      },
+      {
+        "text":"The procedure called for serial dilutions. The procedure used 0.5844g of NaCl, x more than what #4 is asking for. The text referred to the use of a volumetri pipet and flask. It's also implied that an analytical balance should be used by not explicitly stated or accounted for.",
+        "value":0
+      },
+      {
+        "text":"I had no problem with the grammer. Transition words were not used.",
+        "value":-0.5994
+      },
+      {
+        "text":"This text did not have a conclusion. Compared to the last text, this text went into a bit less detail in the procedure and went into the mathemacs more deeply. The exclusion of reference of an analytical balance was the difference to me. The procedure was almost the same, save for the initial weight of NaCl used.",
+        "value":0.1512
+      }
+    ],
+    [
+      {
+        "text":"This essay does not contain any kind of specific ways to reduce the inherent error. They simply just list the basics of the dilution.",
+        "value":-0.4019
+      },
+      {
+        "text":"They simply use the standard quantitative procedures. They use an equation to find the volume.",
+        "value":0
+      },
+      {
+        "text":"This essay does contain transition words to help the flow of the essay.",
+        "value":0.4019
+      },
+      {
+        "text":"This overall essay is alright. It explains the basics in diluting the solution but it does not go far enough in depth. The essay does have transition words to help the flow of the essay.",
+        "value":0.8173999999999999
+      }
+    ],
+    [
+      {
+        "text":"The calculations are explained and the procedure follows a logical progression.",
+        "value":0
+      },
+      {
+        "text":"The equipment is listed and the procedure is explained clearly.",
+        "value":0.4019
+      },
+      {
+        "text":"The organization and mechanics of the essay were not a distraction to the reader.",
+        "value":0.2924
+      },
+      {
+        "text":"Well done, but too much reagent used.",
+        "value":0.1406
+      }
+    ],
+    [
+      {
+        "text":"The process uses the correct equiptment, generates a final 50mL solution of 2x-4M, and uses at least 3 significant figures (thus producing a&nbsp;precision of 1% or less) on each measurement.",
+        "value":0.4767
+      },
+      {
+        "text":"The procedure involves the use of a balance, a 5mL pipet, and a 50mL volumetric pipet.",
+        "value":0
+      },
+      {
+        "text":"The text includes phrases such as \"to begin\", \"then\", \"secondly\", and \"thirdly\", which gives the process a logical flow.",
+        "value":0
+      },
+      {
+        "text":"While thesuggested procedure uses more than the necessay 0.0584 g of NaCl,&nbsp;the procedure is presented clearly, and the text indicates that the author has a sophisticated understanding of serial dilution.",
+        "value":0.743
+      }
+    ],
+    [
+      {
+        "text":"Yes, student was transparent and certain of their process and equipment that allowed them to attain exactly .95% inherent error.&nbsp;",
+        "value":0.5859
+      },
+      {
+        "text":"Yes, student mentioned their use of 5-mL pipers and 50-mL volumetric flasks, as well as the balance.&nbsp;",
+        "value":0.5859
+      },
+      {
+        "text":"Yes, making their response very coherent.&nbsp;",
+        "value":0.4019
+      },
+      {
+        "text":"Student did a great job with the quantitative part of their response, as well as their writing.&nbsp;",
+        "value":0.7351
+      }
+    ],
+    [
+      {
+        "text":"After the series of 3 serial dilutions performed in this experiment, with&nbsp;each dilution reducing&nbsp;the concentration of the solution by a factor of , the end result is 2*^-4 M NaCl aqueous solution. However, the inherent error, calculated by totaling up all the relative errors of the equipment, is not calculated correctly within the essay.&nbsp;",
+        "value":-0.0675
+      },
+      {
+        "text":"The essay incorporates the standard quantitative equipment used to perform serial dilutions. Such equipment stated within the essay include the 5.00mL pipet and 50 mL volumetric flask.",
+        "value":0
+      },
+      {
+        "text":"The essay provides transitions words such as \"therefore,\" \"first,\" and \"then\" in order to allow a steady flow of procedural explanations for the experiment. By using these transition words, the flow of ideas within the essay was easy to understand.",
+        "value":0.6667000000000001
+      },
+      {
+        "text":"This essay does convey a basic understanding of serial dilutions, but the inability to provide an accurate description of the inherent error is lacking. The essay has well-defined features which include a great procedural process in attaining the correct concentration of the NaCl solution and an easy-to-understand explanation of the procedure through the use of transition words. However, the experiment performed also does not fulfill the requirement of using 0.0584 grams of NaCl and so increases the chance of error in precision.&nbsp;",
+        "value":-0.47539999999999993
+      }
+    ],
+    [
+      {
+        "text":"The procedure is feasible but will result in a solution with above 1% error.&nbsp;",
+        "value":0.4497
+      },
+      {
+        "text":"The essay describes the use of a standard quantitative equiptment.&nbsp;",
+        "value":0
+      },
+      {
+        "text":"The essay has a few errors in grammar and it is in a bullet point format rather than an essay format. The formatting does not allow for the use of transition phrases and takes away from the flow of the essay.&nbsp;",
+        "value":-0.5095000000000001
+      },
+      {
+        "text":"While the essay describes a procedure, in great detail, that would reach the correct concentration, it does so by going over the allowed error range. It also requires much more reagent than is allowed. The essay has errors in grammar and does not have a proper flow of ideas due to its improper formatting.&nbsp;",
+        "value":0.021199999999999997
+      }
+    ],
+    [
+      {
+        "text":"The essay describes a serial dilution procedure that uses available lan equipment and will provide a solution with an error of less than 1%.",
+        "value":-0.1027
+      },
+      {
+        "text":"All the procedures in the essay are standard in the lab. The creation of 5 different diluted solutions is thorough and uses lab equipment effectively.",
+        "value":0.6908
+      },
+      {
+        "text":"Transition words and phrases like \"First\", \"Therefore\", \"Then\", \"repeat procedure\" clarfiy the order of steps necessary for the dilution.",
+        "value":0.3612
+      },
+      {
+        "text":"The essay uses a very thorough dilution procedure and provides a solution with error less than 1%. The procedure is concise and does not overcomplicate the process.",
+        "value":-0.1027
+      }
+    ],
+    [
+      {
+        "text":"The essay shows correct error analysis and refers to the use of serial dilution.",
+        "value":-0.4019
+      },
+      {
+        "text":"The essay comments on the use of volumetric pipets and flasks and the analytical balance in order to make the solution with the exact concentration required.",
+        "value":0.3182
+      },
+      {
+        "text":"Some of the sentences are not very fluent in logic, but transition words such as \"if\", \"but\", \"and\" are used.",
+        "value":0.0258
+      },
+      {
+        "text":"The essay meets the standard the above questions establish, so it deserves a high score. However, it is not as organized and logically fluent as the 9 point calibration essay provided. Therefore, my score for this essay is 8.",
+        "value":0
+      }
+    ],
+    [
+      {
+        "text":"Yes, all of the equiptment is availilbe in lab and the calculations are correct. See below.&nbsp;Calculations for Concectration is Correct:.0584g x (1/58.44) mol/g = 9.99x-4mol9.99x-4mol / .050 L = .01998MM1V1 = M2V2 -&gt; M2 = M1V1/V2(.01998M)(5mL)/ (50mL) = .001998 MM3 = M2V2/V3(.001998 M)(5mL)/ (50mL) = 1.998 x-4&nbsp;M ~ 2.0 x-4&nbsp;M.&nbsp;Calcultion for Error is Correct:Inherent Error is the Sum from all equiptment used:Scale .0002/ .0584 x 0% = .345%(3x) 50 mL Volumetric flask 3( .04/50 x 0%)= 3(.08%) = .24%(2x) 5 mL Volumentric pipet 2( .01/5 x 0%) = 2(.20%) = .40%Total Inherent Error: .985%",
+        "value":-0.3945
+      },
+      {
+        "text":"They say \"volumetric flask\" and when they say \"5mL pipet,\" the only pipets we have in that size are volumetric pipets. Plus they are using serial dillutions.",
+        "value":0
+      },
+      {
+        "text":"We start... then... This will give us...&nbsp;&nbsp;Could use more flow into the second paragraph. Kind of just jump into it.&nbsp;",
+        "value":0
+      },
+      {
+        "text":"The procedure works, and there were transition words, but the flow wasn't perfect. Particularly the second paragraph could use more transtitions and a concluding sentence.&nbsp;",
+        "value":-0.612
+      }
+    ],
+    [
+      {
+        "text":"Yes, it is a very good procedure and finally will lead to the correct outcome.",
+        "value":0.7089
+      },
+      {
+        "text":"He or she uses equipment such as, volumetric flask and pipet.",
+        "value":0
+      },
+      {
+        "text":"The transition words are wel used, sucha as the reason why, as follows, etc.",
+        "value":0
+      },
+      {
+        "text":"Almost perfect, except no introducing sentence.",
+        "value":0.4158
+      }
+    ],
+    [
+      {
+        "text":"The procedure is correct and easy to follow.",
+        "value":0.4404
+      },
+      {
+        "text":"The essay describes a procedure using standard quantitative equipment. 5 mL volumetric pipets, 50 mL volumetric flasks, etc.",
+        "value":0
+      },
+      {
+        "text":"This person had very good transitions between sentences and paragraphs that allows the reader to understand the step-by-step procedures.",
+        "value":0.5256
+      },
+      {
+        "text":"It had most of the required points with very good transitioning words.&nbsp;",
+        "value":0.4927
+      }
+    ],
+    [
+      {
+        "text":"The procedure does not address the issue of precision as deliberately as the other procedures viewed. The lack of detail in the procedure does not ensure the&nbsp;accuracy of the experiment.&nbsp;",
+        "value":-0.5399
+      },
+      {
+        "text":"The procedure addresses the exact equipment to use and the precision that each piece allows.&nbsp;",
+        "value":0
+      },
+      {
+        "text":"The procedure incorperates transitions like first, or begin by to facilitate reading and reader understanding. The procedure flows well.&nbsp;",
+        "value":0.3612
+      },
+      {
+        "text":"The areas of the prompt were answered and procedure flowed well however procedure was not as detailed or properly structured as it could have been.",
+        "value":0.2732
+      }
+    ],
+    [
+      {
+        "text":"The preparation of the 20 mL solution of 2.00 M NaCl in a beaker will contribute an inherent error that puts the total inherent error above the threshold of 1%. Even though the author says that the volume at that step does not need to be precise, it still adds inherent error to the concentration of the final solution. There is no mention of the initial mass of NaCl required to complete the procedure, so it is unclear how the 2.00 M solution is prepared.&nbsp;",
+        "value":-0.8672
+      },
+      {
+        "text":"The procedure mentions the use of 5 mL volumetric pipets and 50 mL volumetric flasks. However, it does not mention how the 2.00 M NaCl aqueous solution is made, and it make special mention that the methodology does not need to be quantitative when the author says \"(volume at this step does not need to be precise)\".&nbsp;",
+        "value":0.6124
+      },
+      {
+        "text":"There are transition words such as \"First\" and \"Next\" and phrases such as \"If done correctly\" that give the essay logical flow.",
+        "value":0
+      },
+      {
+        "text":"Since there is no mention of the initial mass of pure NaCl to use for a first solution, the procedure is missing a step. The author neglects the inherent error caused by the creation of the 20 mL NaCl solution of 2.00 M concentration. Also, there is no mention of the exact inherent error to three significant figures, so it is left unclear as to how the error is calculated.&nbsp;",
+        "value":-1.4127
+      }
+    ],
+    [
+      {
+        "text":"Yes, all of the equiptment is availilbe in lab and the calculations are correct. See below.&nbsp;Calculations for Concectration is Correct:.0584g x (1/58.44) mol/g = 9.99x-4mol9.99x-4mol / .050 L = .01998MM1V1 = M2V2 -&gt; M2 = M1V1/V2(.01998M)(5mL)/ (50mL) = .001998 MM3 = M2V2/V3(.001998 M)(5mL)/ (50mL) = 1.998 x-4&nbsp;M ~ 2.0 x-4&nbsp;M.&nbsp;Calcultion for Error is Correct:Inherent Error is the Sum from all equiptment used:Scale .0002/ .0584 x 0% = .345%(3x) 50 mL Volumetric flask 3( .04/50 x 0%)= 3(.08%) = .24%(2x) 5 mL Volumentric pipet 2( .01/5 x 0%) = 2(.20%) = .40%Total Inherent Error: .985%",
+        "value":-0.3945
+      },
+      {
+        "text":"Volumetric pipets and volumetric flasks with serial dillutions.&nbsp;",
+        "value":0
+      },
+      {
+        "text":"Tho begin.... Next..., Then, .... Finish,... For the second dillution,... This is how....",
+        "value":0
+      },
+      {
+        "text":"It works. It's well written. Good job &nbsp;:)&nbsp;",
+        "value":0.7136
+      }
+    ],
+    [
+      {
+        "text":"The procedure includes steps possible with the given equipment. The resulting error is just below the necessary precision.",
+        "value":-0.4019
+      },
+      {
+        "text":"The essay specifically outlines the use of the two given types of glassware and the balance.&nbsp;",
+        "value":0
+      },
+      {
+        "text":"The text includes words like \"to begin,\" \"then,\" \"next,\" and \"finally\" to create connections between successive steps and related ideas. This makes the essay easily readable and understandable.",
+        "value":1.0308
+      },
+      {
+        "text":"This text should be rated highly because it includes very descriptive steps when outlining the procedure and explains how error relates to the procedure. The essay flows very well and has a logical flow of ideas. The text could be improved by separating the section describing the steps from the section explaining the error. It could also be improved by explaining exactly how the inherent error was calculated. Overall, the text was well written, informed, and coherent.",
+        "value":0.4151
+      }
+    ],
+    [
+      {
+        "text":"Yes, the writer accounted for their propogation of errors in the last half of the essay. All of the equipment he did use was within the means and resources&nbsp;of standard laboratory equipment. His selection of volumetric flasks and pipets will in theory account for the specified solution.",
+        "value":0.3954
+      },
+      {
+        "text":"The essay is a complete step by step process of how to make a dilute solution of NaCl.",
+        "value":0.3182
+      },
+      {
+        "text":"The author uses basic transition techniques in writing to clearly control the flow of ideas in the essay.",
+        "value":0.4019
+      },
+      {
+        "text":"The author proposes their&nbsp;procedure clearly and precisely. There are few errors&nbsp;with overall&nbsp;spelling and grammar, while the author maintains a competent understanding of his idea. His procedure is well planned, accounting for&nbsp;real world laboratory logistics and it maintains&nbsp;the argument clearly with calculations.&nbsp;",
+        "value":1.0383
+      }
+    ],
+    [
+      {
+        "text":"The procedure only uses the 5 mL pipet and 50 mL volumetric flask allowed. Performing three dilutions after creating the standard solution will result in the desired concentration.",
+        "value":0.6808
+      },
+      {
+        "text":"The procedure specifically outlines when to use the two types of standard quantitative equipment when performing the dilutions.",
+        "value":0
+      },
+      {
+        "text":"The essay includes words like \"for instance,\" \"finally,\" and \"now\" to connect steps and ideas. This helps present the procedure and reasoning behind it in an understandable and coherent manner.",
+        "value":0.743
+      },
+      {
+        "text":"This essay should be highly rated. The procedure and inherent error were both well thought out and well explained. The explanations of the steps in the procedure could be improved with slightly more detail. Also, the calculated concentrations should be reported with attention to significant digits. Although the procedure used more reagent than necessary, it resulted in a much lower error than using the minimal amount. Overall, the essay efficiently met the requirements and presented them in a well organized and understandable manner.&nbsp;",
+        "value":0.7935
+      }
+    ],
+    [
+      {
+        "text":"The topic sentence does not refer to the subject of the essay. It instead implies the essay is about error, which it is not. The procedure is possible but the resulting concentration (according to their procedure) will be 0.002M, not 0.0002, the target concentration.",
+        "value":-0.3247
+      },
+      {
+        "text":"Serial dilutions were used. 0.5844g of NaCl was used (x more than what #4 asks for). And standard quantitative equipment was used as well.",
+        "value":0.2732
+      },
+      {
+        "text":"I had no problem with the grammar. Transition words were not used.",
+        "value":-0.5994
+      },
+      {
+        "text":"There was no conclusion. Although the procedure is possible and uses serial dilutions to keep the inherent error low, the target concentration was missed in this procedure. If you follow this procedure to the period, you will get a 0.002M concentration solution, a concentration x higher than whats targeted. But besides that major error, this essay was pretty similar to all the rest.",
+        "value":-0.5681999999999999
+      }
+    ],
+    [
+      {
+        "text":"They did not factor in the fact that the balance can only measure four decimal places.",
+        "value":0
+      },
+      {
+        "text":"They do mention equipment used however they do not include a pipet which is necessary here for serial dilution.",
+        "value":0
+      },
+      {
+        "text":"Progessive uses of then, and, as well as \"once this is achieved.\"",
+        "value":0.2732
+      },
+      {
+        "text":"This procedure is not feasible given the equipment we have..&nbsp;",
+        "value":0
+      }
+    ],
+    [
+      {
+        "text":"The procedure requires weighing out 5.84 x-4&nbsp;grams of NaCl. Because the electronic balance has an inherent error of .2mg, the inherent error in this procedure is 34%.",
+        "value":-0.6597
+      },
+      {
+        "text":"Procedure uses standard equipment and explain in detail how to properly use that equipment",
+        "value":0
+      },
+      {
+        "text":"The essay's transitions easily lead from one step to the next",
+        "value":0.34
+      },
+      {
+        "text":"The author understands how to use the desired concentration to find the required mass of solute, but the essay is missing many key points. The goal of the assignment was to create the solution using a serial dilution, but the author instead chose not to perform multiple dilutions. The author also does address inherent error in the procedure. They did not account for the 0.2 mg uncertainty in the electronic balance, which would lead to an inherent error of 34% when weighing out the NaCl. The author does not ever address the requirement of less than 1% precision. While the essay was well-written, it failed to address significant parts of the assignment.",
+        "value":-1.3991
+      }
+    ],
+    [
+      {
+        "text":"The procedure is correct, however error percent is not calculated in the text.&nbsp;",
+        "value":-0.4019
+      },
+      {
+        "text":"The pipet is not used. The need to use the standardequipment is not mentioned.",
+        "value":0
+      },
+      {
+        "text":"The logical flow of ideas is present",
+        "value":0
+      },
+      {
+        "text":"Error Analysis is missing.&nbsp;",
+        "value":-0.4019
+      }
+    ],
+    [
+      {
+        "text":"Yes, the writer describes how to maintain the 1% error using the manufacturer's tolerance for the equipment for each equipment. In order to maintain the concentration and precision, there will need to be four dilutions.",
+        "value":0.296
+      },
+      {
+        "text":"The standard equipment mentioned are a 50 mL volumetric flask, the Mettler AE160 balance, the funnel, and the 5 mL pipet.",
+        "value":0.0258
+      },
+      {
+        "text":"Some transition words used include next, following that, going from there, and at this point.",
+        "value":0
+      },
+      {
+        "text":"This text was composed of most of the essential elements for a well written assignment. The only thing lacking was a concrete topic sentence and concluding sentence, for which I took out two points.",
+        "value":0.4263
+      }
+    ],
+    [
+      {
+        "text":"This procedure is feasible and well thought out.",
+        "value":0.2732
+      },
+      {
+        "text":"This procedure uses standard quantitative equipment.",
+        "value":0
+      },
+      {
+        "text":"This essay has a logical flow of ideas.",
+        "value":0
+      },
+      {
+        "text":"This essay was very well written but used too much reagent.",
+        "value":0.177
+      }
+    ],
+    [
+      {
+        "text":"The first paragraph elucidates the fact that 4 series of dilution will lead to inherent error less than 1%, and he doest great job at describing it; however, the first paragraph doesn't contain any main sentence as topic sentence which describes what's going to be in the essay.",
+        "value":0.4588
+      },
+      {
+        "text":"This writer uses .5844 gram which is more than .0584 gram. However, the writer does great job at making solution with ony restricted equipment.",
+        "value":0.5859
+      },
+      {
+        "text":"This essay doesn't contain any grammar error. Also it does great job at using transitions such as \"next\", \"following that\", \"after\".&nbsp;",
+        "value":0.22300000000000003
+      },
+      {
+        "text":"Even though this essay doesn't contain strong topic sentence, it doest great job at calculation and explaining the possible inherent error and it leads to less than 1% of inherent error which we aimed for. Also, this essay does great job at using tranisition sentences to connect that thought process. In addition, his or her procedure is designed with only restricted equipment that we are assigned for. Lastly, at the end, he or she also clarifies that inherent error for the solution which summarizes the whole point of procedure. Therefore, I think this essay deserves higher than 8 even though it doesn't have topic sentence.",
+        "value":-0.06470000000000001
+      }
+    ],
+    [
+      {
+        "text":"The weight of NaCl used for the solution is too small and will result in an error of larger than 1% itself. Percentage error due to weight of NaCl = 0.0002/(5.8x^-4) x0% = 37%",
+        "value":-0.5045999999999999
+      },
+      {
+        "text":"The essay does not describe the usage of a volumetric flask at all.",
+        "value":0
+      },
+      {
+        "text":"The student uses words and phrases such as \"Then\", \"Next\", \"Once that happens\".",
+        "value":0
+      },
+      {
+        "text":"The procedure is entirely wrong, and does not utilize serial dilution or volumetric flasks at all. Additionally, the error in the solution prepared is way larger than it is supposed to be.",
+        "value":-0.39759999999999995
+      }
+    ],
+    [
+      {
+        "text":"The significant figures do not match up. The amount of NaCl measured was 5.9E-4g. This would cause too much error and only two sig figs of accuracy. In addition, there is not dilution present in this procedure. The NaCl is&nbsp;not properly&nbsp;dissolved, meanwhile a mystery solution is simply transferred into a different container.",
+        "value":0.11860000000000001
+      },
+      {
+        "text":"Some procedures, such as the rinsing of the weighing boat into the volumetric flask, are highlighted. But others, including the use of a meniscus to dilute a standard solution, are omitted.",
+        "value":0.3182
+      },
+      {
+        "text":"Transition word \"then\" is used. Spelling mistakes are present. The lack of writing skill is distracting.",
+        "value":-0.9035
+      },
+      {
+        "text":"Some standard procedures are listed, yet much of the proper procedure is left out. If followed exactly, this procedure would not yield 2.00E-4M aqueous NaCl solution, let alone with the required precision.&nbsp;",
+        "value":0.0772
+      }
+    ],
+    [
+      {
+        "text":"The writer of this essay is not only laughably, naively optimistic ('the inherent error [...] should come out to less than 1%'? Really? Science always works the way you hope it to, right? It's not as if the entirety of science were based on experimentation and calculation, right? That'd be ridiculous.), but also unwilling to take responsibility for the proposed experiment, as evidenced by the nauseating overuse of the second person pronoun throughout. Needless to say, the inherent error in the final product would be far larger than 1%, as the precision of the balance (+/- 0.2 mg) would cause error larger than 30% in the very first step.",
+        "value":-0.8960999999999999
+      },
+      {
+        "text":"If balance, pipet, and beaker qualify as standard quantitative equipment, then sure, some sort of procedure involving these items is described in the essay.",
+        "value":0.3182
+      },
+      {
+        "text":"By the count of this humble reviewer, the essay's writer uses the conjunction 'then' no fewer than five times, and the adverb 'simply' four times (not counting one use of the adjective 'simple'). I do not know if the writer's intent was to mock the intellectual capabilities of the reviewers, orsimplyto waste their time. In either case, he or she has succeeded.",
+        "value":-0.19269999999999998
+      },
+      {
+        "text":"I initially gave a '1' rating to a previous essay, thinking that nothing could be worse than producing poor data. I now regret my foolishness, and retract that rating.",
+        "value":-0.8204
+      }
+    ],
+    [
+      {
+        "text":"The procedure suggested in the text require to weigh 5.84 x \u207b\u2074 g of NaCl. However the digital balance we use in the lab can only measure a minimum wieght of 1 x \u207b\u2074 g. Measuring 5.84 x \u207b\u2074 g would result in a large error of the measurement of the weight which would be larger than 1%.",
+        "value":-0.4019
+      },
+      {
+        "text":"The equipment required for the procedure suggestd in the text&nbsp;includes a digital balance, a 50-mL volumetric flask, and a 5-mL volumetric pipet. All off them are standard quantitative equipment in the lab.",
+        "value":0
+      },
+      {
+        "text":"There are transition&nbsp;word like \"then\", \"once\",&nbsp; \"until\" used in the text to present a coherence and logical flow of ideas through the essay.",
+        "value":0.3612
+      },
+      {
+        "text":"The writer clearly demonstrate all the ideas. There is no significant problem with the grammar and the structure of the text. However, the procedure suggested in the text is completely wrong. There is no serial dilution involved in the procedure, the error is also off the limit. The writer does not understand how to corrrectly use the standard equipment in the lab according to the operation steps in his procedure.",
+        "value":-1.1998000000000002
+      }
+    ],
+    [
+      {
+        "text":"To weigh 5.84*^-4 g of NaCl, the error would be:0.0002g/0.000584g=34.2% &gt; 1%The precision is much lower than required.",
+        "value":-0.5994
+      },
+      {
+        "text":"It explains the use of analytical balance and volumetric flask in detail. Procedure for quantitative operations is introduced.",
+        "value":0
+      },
+      {
+        "text":"The essay makes use of 'this', 'once', 'but', and 'if'.",
+        "value":0
+      },
+      {
+        "text":"The essay does not give us a feasible method to prepare the solution within given error tolerance.Serial dilution is missing and it does not have a conclusion sentence. However the essay nicely explains all the steps we need to follow when using&nbsp;standard quantitative equipment.&nbsp;",
+        "value":0.01469999999999999
+      }
+    ],
+    [
+      {
+        "text":"The procedure includes the weighing of&nbsp;5.84 x \u00e2 \u0165\u00e2 \u00b4 g of NaCl, which is not feasible using a common laboratory balance. The error associated with an analytical balance is to the tenth of a miligram which means that the error would be very high.",
+        "value":-0.6597
+      },
+      {
+        "text":"The essay mentions the use of an analytical balance, a 5 mL volumetric pipet, and a 50 mL volumetric flask.",
+        "value":0
+      },
+      {
+        "text":"The essay uses many transitional phrases such as \"then,\" \"now,\" and \"if.\" This helps the essay flow smoothly.",
+        "value":0.3818
+      },
+      {
+        "text":"The procedure did not employ the use of the serial dilutions which would help minimize error if done correctly. The weighing of&nbsp;5.84 x \u207b\u2074 g of NaCl was the start of the errors, as doing so completely got rid of the necessity of serial dilutions and increased the error associated with measuring&nbsp;5.84 x \u207b\u2074 g of NaCl on an analytical balance. This proccedure is not at all feasible with the given laboratory equipment, and so the writer failed to prepare a solution with a concentration of&nbsp;2.00 x \u207b\u2074 M and an precisional error of 1% or less.",
+        "value":-1.0665
+      }
+    ]
+  ],
+  "tooltipColorScheme":"black",
+  "font-face":"Arial",
+  "showCustomColorScheme":false,
+  "color_scheme":{
+    "ranges":[
+      {
+        "color":"#E74C3C",
+        "minimum":-1,
+        "maximum":-0.5
+      },
+      {
+        "color":"#F1948A",
+        "minimum":-0.5,
+        "maximum":0
+      },
+      {
+        "color":"#82E0AA",
+        "minimum":0,
+        "maximum":0.5
+      },
+      {
+        "color":"#229954",
+        "minimum":0.5,
+        "maximum":1
+      }
+    ]
+  },
+  "showTextInsideBoxes":true
+}

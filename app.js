@@ -5,8 +5,9 @@ var tinycolor = require("tinycolor2");
 var convert = require('color-convert');
 var kolor = require('kolor')
 var margin = {
-        top: $("#chart").parent().height() / 6.5, //top: 0,
-        right: 0
+        //top: $("#chart").parent().height() / 6.5, //top: 0,
+        top: 100
+        , right: 0
         , bottom: 0
         , left: $("#chart").parent().width() / 6
             //left: 0
@@ -31,7 +32,8 @@ var margin = {
     , expandedColumnWidth = 0
     , currentExpandedColumn = null
     , customColorSchemeEnabled = null
-    , tooltiColorScheme = null;
+    , tooltiColorScheme = null
+    , fontSize = 12;
 
 function get_custom_colors(color_scheme) {
     colors = []
@@ -75,8 +77,9 @@ function get_color_ranges_from_custom_scheme(color_scheme) {
     console.log(ranges)
     return ranges;
 }
-$.getJSON("data.json", function (data) {
+$.getJSON("cpr_data.json", function (data) {
     jsonData = data;
+    fontSize = data['font-size']
     h_labels = data.h_labels;
     v_labels = data.v_labels;
     customColorSchemeEnabled = data.showCustomColorScheme;
@@ -305,6 +308,11 @@ function loadChart(data, expandedColumn = h_labels.length + 1) {
                 }
                 return gridWidth * 0.9 + 'px';
             }).style("height", gridHeight * 0.75 + 'px').attr('class', 'clipped protip').style("font-size", function (d, i) {
+
+                // use the font in json if it's defined
+                if(fontSize != undefined)
+                    return fontSize;
+                //if the size is not defined, scale the font according to the chart's dimension
                 var height = d3.select(this).style('height');
                 height = height.substring(0, height.length - 2);
                 var width = d3.select(this).style('width');
@@ -316,7 +324,7 @@ function loadChart(data, expandedColumn = h_labels.length + 1) {
                 return size + 'px';
             }).attr('data-pt-title', function (d, i) {
                 return d.text.toString();
-            }).attr('data-pt-scheme', tooltiColorScheme).append("xhtml:span").text(function (d, i) {
+            }).attr('data-pt-animate', "bounceIn").attr('data-pt-scheme', tooltiColorScheme).append("xhtml:span").text(function (d, i) {
                 return d.text.toString();
             });
             cards.exit().remove();
@@ -414,9 +422,13 @@ function loadChart(data, expandedColumn = h_labels.length + 1) {
         function changeTextSize() {
             var cols = document.getElementsByClassName('mono');
             size = $("#chart").parent().width() / 60;
-            if (size < 15) {
+            // use the font in json if it's defined
+            if(fontSize != undefined)
+                size = fontSize;
+            else if (size < 15) {
                 size = 15;
             }
+
             for (i = 0; i < cols.length; i++) {
                 cols[i].style.fontSize = size + "px";
             }

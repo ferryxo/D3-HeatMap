@@ -324,7 +324,7 @@ function loadChart(data, expandedColumn = h_labels.length + 1) {
                 return size + 'px';
             }).attr('data-pt-title', function (d, i) {
                 return d.text.toString();
-            }).attr('data-pt-animate', "bounceIn").attr('data-pt-scheme', tooltiColorScheme).append("xhtml:span").text(function (d, i) {
+            }).attr('data-pt-animate', "fadeIn").attr('data-pt-scheme', tooltiColorScheme).append("xhtml:span").text(function (d, i) {
                 return d.text.toString();
             });
             cards.exit().remove();

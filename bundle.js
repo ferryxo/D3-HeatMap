@@ -79,7 +79,6 @@
         return ranges;
     }
 
-//$.getJSON("data.json", parseJsonData);
 
     window.visualizeJsonData = function(data) {
         jsonData = data;
@@ -327,7 +326,7 @@
                     return size + 'px';
                 }).attr('data-pt-title', function (d, i) {
                     return d.text.toString();
-                }).attr('data-pt-scheme', tooltiColorScheme).append("xhtml:span").text(function (d, i) {
+                }).attr('data-pt-animate', "fadeIn").attr('data-pt-scheme', tooltiColorScheme).append("xhtml:span").text(function (d, i) {
                     return d.text.toString();
                 });
                 cards.exit().remove();
